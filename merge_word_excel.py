@@ -86,6 +86,7 @@ if __name__ == "__main__":
     for i in range(len(subjects)):
         subjects[i]["id"] = i
         subjects[i]["custom-id"] = i + 2
+        subjects[i]["year-file"] = "2020-2022"
         subjects[i]["gender"] = csv_data.iloc[i]["sesso"]
         subjects[i]["birthdate"] = convert_birthdate(
             csv_data.iloc[i]["data_nascita"], csv_data.iloc[i]["unita_operativa"]
