@@ -1,0 +1,563 @@
+[
+    {
+        "pathologies": [
+            "Neoplasia gastrica"
+        ],
+        "comorbidities": [
+            "covid"
+        ]
+    },
+    {
+        "pathologies": [
+            "Infezione covid",
+            "polmonite",
+            "insuf respiratoria"
+        ],
+        "comorbidities": [
+            "cachessia senile"
+        ]
+    },
+    {
+        "pathologies": [
+            "BPCO riacutizzata",
+            "infezione covid",
+            "ARDS"
+        ],
+        "comorbidities": [
+            "cardiopatia ischemica post IMA"
+        ]
+    },
+    {
+        "pathologies": [
+            "Covid",
+            "sepsi sistemica"
+        ],
+        "comorbidities": [
+            "sclerosi multipla"
+        ]
+    },
+    {
+        "pathologies": [
+            "Infezione covid",
+            "polmonite bilaterale",
+            "sepsi grave",
+            "MOF"
+        ],
+        "comorbidities": []
+    },
+    {
+        "pathologies": [
+            "Batteriemia stafilococcica",
+            "sepsi",
+            "insuf respiratoria"
+        ],
+        "comorbidities": [
+            "frattura femore sx",
+            "occlusione intestinale",
+            "anemizzazione post chirurgica",
+            "infezione covid",
+            "demenza",
+            "disfagia"
+        ]
+    },
+    {
+        "pathologies": [
+            "Ileo paralitico",
+            "enterite da C. difficile",
+            "sepsi"
+        ],
+        "comorbidities": [
+            "anemia",
+            "infezione covid",
+            "cardiopatia fibrillante"
+        ]
+    },
+    {
+        "pathologies": [
+            "Sdr da allettamento",
+            "lesione da pressione infetta",
+            "infezione covid",
+            "shock settico"
+        ],
+        "comorbidities": [
+            "sclerosi multipla",
+            "obesita",
+            "tetraparesi"
+        ]
+    },
+    {
+        "pathologies": [
+            "Polmonite covid",
+            "insuf respiratoria"
+        ],
+        "comorbidities": [
+            "demenza",
+            "FA"
+        ]
+    },
+    {
+        "pathologies": [
+            "Linfoma angioimmunoblastico",
+            "polmonite covid",
+            "insuf respiratoria acuta",
+            "MOF"
+        ],
+        "comorbidities": [
+            "arteropatia cronica ostruttiva arti inf"
+        ]
+    },
+    {
+        "pathologies": [
+            "Infezione covid",
+            "polmonite interstiziale bilaterale",
+            "scompenso cardiaco acuto su cronico",
+            "stato soporoso e ipotensione"
+        ],
+        "comorbidities": [
+            "IRA su IRC",
+            "anemia e piastrinopaenia",
+            "decadimento delle condizioni generali"
+        ]
+    },
+    {
+        "pathologies": [
+            "Insufficienza cardiaca",
+            "scompenso cardiaco congestizio",
+            "insuf respiratoria severa",
+            "arresto cardiocircolatorio"
+        ],
+        "comorbidities": [
+            "covid+"
+        ]
+    },
+    {
+        "pathologies": [
+            "Fistola retto-vescicale",
+            "stato settico",
+            "MOF",
+            "arresto cardiaco"
+        ],
+        "comorbidities": [
+            "infezione covid",
+            "sdr da allettamento"
+        ]
+    },
+    {
+        "pathologies": [
+            "Infezione covid",
+            "polmonite ab ingestis",
+            "cardiopatia ischemica cronica",
+            "MOF"
+        ],
+        "comorbidities": [
+            "IRC"
+        ]
+    },
+    {
+        "pathologies": [
+            "Tachi-fibrillazione atriale",
+            "infezione covid",
+            "sepsi",
+            "insuf midollare"
+        ],
+        "comorbidities": [
+            "sdr da allettamento",
+            "disturbo neurocognitivo maggiore",
+            "cardiopatia ipertensiva fibrillante"
+        ]
+    },
+    {
+        "pathologies": [
+            "Frattura omero sx",
+            "sepsi urinaria",
+            "shock sistemico"
+        ],
+        "comorbidities": [
+            "IRC",
+            "BPCO",
+            "infezione covid"
+        ]
+    },
+    {
+        "pathologies": [
+            "Malattia da CMV",
+            "sdr emofagocitica",
+            "pancitopenia",
+            "ictus emorragico"
+        ],
+        "comorbidities": [
+            "covid+",
+            "candidiasi sistemica",
+            "sospetto linfoma H"
+        ]
+    },
+    {
+        "pathologies": [
+            "Infezione covid",
+            "polmonite dx e ingombro secretorio",
+            "grave insuf respiratoria"
+        ],
+        "comorbidities": [
+            "ipertensione arteriosa polmonare",
+            "laparocele complicato"
+        ]
+    },
+    {
+        "pathologies": [
+            "Polmonite bilaterale covid",
+            "TEP segmentaria",
+            "insuf respiratoria acuta",
+            "distress respiratorio"
+        ],
+        "comorbidities": [
+            "DM"
+        ]
+    },
+    {
+        "pathologies": [
+            "Infezione covid",
+            "insfu respiratoria acuta",
+            "acidosi metabolica",
+            "scompenso metabolico"
+        ],
+        "comorbidities": [
+            "decadimento cognitivo",
+            "decadimento condizioni generali"
+        ]
+    },
+    {
+        "pathologies": [
+            "Ictus ischemico cardioembolico",
+            "polmonite covid",
+            "urosepsi da K. Pneumoniae",
+            "shock settico"
+        ],
+        "comorbidities": [
+            "favismo",
+            "anemia",
+            "endocardite aortica"
+        ]
+    },
+    {
+        "pathologies": [
+            "Ulcera duodenale",
+            "iporessia",
+            "stato infettivo"
+        ],
+        "comorbidities": [
+            "Alzheimer",
+            "infezione covid asintomatica"
+        ]
+    },
+    {
+        "pathologies": [
+            "FA",
+            "demenza senile",
+            "polmonite covid",
+            "arresto cardiorespiratorio"
+        ],
+        "comorbidities": []
+    },
+    {
+        "pathologies": [
+            "Sepsi da patogeno non identificato",
+            "IRA",
+            "anuria",
+            "MOF"
+        ],
+        "comorbidities": [
+            "infezione paucisintomatica da covid",
+            "FA",
+            "lesione tiroidea"
+        ]
+    },
+    {
+        "pathologies": [
+            "STEMI con shock cardiogeno",
+            "FA",
+            "IRA",
+            "shock settico"
+        ],
+        "comorbidities": [
+            "infezione covid",
+            "TVP",
+            "allettamento"
+        ]
+    },
+    {
+        "pathologies": [
+            "Encefalopatia vascolare cronica",
+            "sdr da allettamento",
+            "infezione covid",
+            "polmonite"
+        ],
+        "comorbidities": [
+            "declino cognitivo"
+        ]
+    },
+    {
+        "pathologies": [
+            "Cirrosi epatica",
+            "encefalopatia porto sistemica",
+            "insuf epatica terminale"
+        ],
+        "comorbidities": [
+            "recente polmonite covid",
+            "trombosi portale"
+        ]
+    },
+    {
+        "pathologies": [
+            "Infezione covid",
+            "polmonite bilaterale",
+            "insuf respiratoria acuta"
+        ],
+        "comorbidities": [
+            "demenza",
+            "acidosi metabolica",
+            "insuf renale riacutizzata pre renale"
+        ]
+    },
+    {
+        "pathologies": [
+            "IRA con disidratazione",
+            "insuf respiratoria acuta",
+            "setticemia non specificata",
+            "MOF"
+        ],
+        "comorbidities": [
+            "infezione covid",
+            "decadimento cognitivo"
+        ]
+    },
+    {
+        "pathologies": [
+            "Adenocarcinoma polmonare",
+            "polmonite covid+ab ingestis",
+            "insuf respiratoria"
+        ],
+        "comorbidities": [
+            "meningioma",
+            "sdr da apnee del sonno",
+            "glomerulosclerosi segmemntaria/sdr nefrosica"
+        ]
+    },
+    {
+        "pathologies": [
+            "Setticemia",
+            "MOF",
+            "edema polmonare acuto",
+            "insfu respiratoria"
+        ],
+        "comorbidities": [
+            "infezione covid",
+            "sdr mielodisplastica"
+        ]
+    },
+    {
+        "pathologies": [
+            "Infezione covid",
+            "insuf respiratoria acuta"
+        ],
+        "comorbidities": []
+    },
+    {
+        "pathologies": [
+            "Polmonite dx",
+            "scompenso cardiaco"
+        ],
+        "comorbidities": [
+            "infezione covid recente",
+            "cachessia",
+            "anemia"
+        ]
+    },
+    {
+        "pathologies": [
+            "Polmonite interstiziale covid",
+            "ARDS",
+            "infezione K. Pneumoniae",
+            "shock settico"
+        ],
+        "comorbidities": [
+            "shock emorragico",
+            "immunodepressione covid-relata"
+        ]
+    },
+    {
+        "pathologies": [
+            "Polmonite",
+            "batteriemia da MRSA",
+            "shock",
+            "IRA"
+        ],
+        "comorbidities": [
+            "covid",
+            "IRC",
+            "cardiopatia ipertensiva"
+        ]
+    },
+    {
+        "pathologies": [
+            "Infezione covid paucisintomatica",
+            "IVU",
+            "scompenso cardiaco congestizio",
+            "IRA su IRC"
+        ],
+        "comorbidities": [
+            "stenosi aortica",
+            "cardiopatia ischemica cronica",
+            "portatore ICD"
+        ]
+    },
+    {
+        "pathologies": [
+            "Sdr da allettamento",
+            "infezione covid",
+            "IRA",
+            "scompenso cardiaco"
+        ],
+        "comorbidities": [
+            "parkinson",
+            "asma allergica"
+        ]
+    },
+    {
+        "pathologies": [
+            "Declino cognitivo",
+            "sdr da allettamento",
+            "polmonite covid con sovrapposizione batterica",
+            "shock settico"
+        ],
+        "comorbidities": [
+            "IVU",
+            "IRA",
+            "DM2"
+        ]
+    },
+    {
+        "pathologies": [
+            "Covid",
+            "polmonite bilaterale",
+            "insuf respiratoria acuta"
+        ],
+        "comorbidities": [
+            "leucemia mieloide acuta",
+            "IRC",
+            "FA"
+        ]
+    },
+    {
+        "pathologies": [
+            "Setticemia non specificata",
+            "sepsi",
+            "MOF"
+        ],
+        "comorbidities": [
+            "lesioni da pressione",
+            "infezione covid",
+            "FA"
+        ]
+    },
+    {
+        "pathologies": [
+            "Polmonite covid",
+            "insuf respiratoria parziale"
+        ],
+        "comorbidities": [
+            "enfisema polmonare",
+            "stenosi aortica severa",
+            "encefalopatia vascolare con disturbo cognitivo severo"
+        ]
+    },
+    {
+        "pathologies": [
+            "FA in DOAC",
+            "anemizzazione in rettorragia",
+            "scompenso cardiaco congestizio"
+        ],
+        "comorbidities": [
+            "infezione covid"
+        ]
+    },
+    {
+        "pathologies": [
+            "Leucemia linfatica cronica",
+            "covid",
+            "insuf respiratoria acuta",
+            "MOF"
+        ],
+        "comorbidities": [
+            "sdr da allettamento",
+            "delirium",
+            "emopericardio"
+        ]
+    },
+    {
+        "pathologies": [
+            "Polmonite",
+            "insuf respiratoria"
+        ],
+        "comorbidities": [
+            "infezione covid",
+            "encefalopatia multi-infartuale",
+            "sdr da allettamento"
+        ]
+    },
+    {
+        "pathologies": [
+            "Disturbo neurocognitivo maggiore",
+            "lesioni da pressione",
+            "infezione covid",
+            "insuf respiratoria"
+        ],
+        "comorbidities": [
+            "iponatriemia"
+        ]
+    },
+    {
+        "pathologies": [
+            "Scompenso cardiaco globale",
+            "shock cardiogeno"
+        ],
+        "comorbidities": [
+            "infezione covid",
+            "IRA"
+        ]
+    },
+    {
+        "pathologies": [
+            "Tumore maligno cerebrale",
+            "recidiva cerebrale",
+            "sepsi polmonare"
+        ],
+        "comorbidities": [
+            "covid+",
+            "FA"
+        ]
+    },
+    {
+        "pathologies": [
+            "Neoplasia renale",
+            "metastasi polmonari e pleuriche",
+            "insuf respiratoria"
+        ],
+        "comorbidities": [
+            "infezione covid",
+            "crisi epilettica"
+        ]
+    },
+    {
+        "pathologies": [
+            "Infezione covid",
+            "polmonite interstiziale",
+            "verosimile sovrainfezione batterica",
+            "insuf respiratoria"
+        ],
+        "comorbidities": [
+            "IRC",
+            "BPCO",
+            "cardiopatia dilatativa"
+        ]
+    }
+]
