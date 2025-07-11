@@ -2,13 +2,11 @@ Pneumopatia interstiziale bilaterale
 insuff respiratoria
 versamento pleurico dx
 arresto cardiorespiratorio
-DM
 DM2
 IVU
 FA
 sovrainfezione batterica
 addensamento polmonare
-addensamento polmonare sx
 polmonite covid
 polmonite
 pace maker
@@ -33,6 +31,7 @@ BPCO
 sdr apnee notturne
 sdr da allettamento
 decadimento cognitivo
+decadimento organico
 Colite ischemica
 shock settico
 Cardiopatia ischemica post IMA
@@ -45,7 +44,7 @@ Psicosi cronica
 ritardo mentale
 edema polmonare
 bypass aorto coronarico
-polmonite batterica sx
+polmonite batterica
 CID
 Colangiocarcinoma
 trombosi vena porta
@@ -62,7 +61,6 @@ Polmonite klebsiella multiresist
 sepsi
 Encefalopatia vasculo atrofica
 IR
-Cirrosi epatica esotossica
 insuf epatica
 stato settico
 Sepsi da stafilococco aureus
@@ -72,14 +70,15 @@ polmonite nosocomiale
 Occlusione intestinale
 Occlusione intestinale da aderenze
 Occlusione intestinale da ernia ombelicale strozzata
-decubito sacrale e foley
+decubito sacrale
+foley
+decubito sacrale
 Sepsi urinaria
 Cancrocirrosi con stenosi valvolare aortica
 ematemesi
 AOCP
 gangrena arto sx
 amputazione coscia
-Adenocarcinoma polmonare plurimetastatico
 cachessia neoplastica
 Adenocarcinoma del colon metastatico
 ematoma retroperitoneale con anemizzazione
@@ -90,7 +89,9 @@ arresto cardiocircolatorio respiratorio
 diverticolite
 perforazione intestinale
 Tumore maligno a primitivita ignota
-metastasi cerebrali, polmonari, linfonodali
+metastasi cerebrali
+metastasi polmonari
+metastasi linfonodali
 shock cardiogeno
 Sigmoidite
 insuff respiratoria in covid positivo sospetto
@@ -105,5 +106,95 @@ arresto respiratorio
 collasso cardiocircolatorio
 carenza accessi venosi
 posizionamento CVC femorale
-versamento plaurico
 ischemia cardiaca
+cardiopatia ischemica cronica
+insuf midollare
+Frattura omero sx
+shock sistemico
+Malattia da CMV
+sdr emofagocitica
+ictus
+scompenso metabolico
+iporessia
+anuria
+Batteriemia stafilococcica
+Ileo paralitico
+lesione da pressione infetta
+Linfoma angioimmunoblastico
+Fistola retto-vescicale
+encefalopatia porto sistemica
+Cirrosi epatica
+disidratazione
+acidosi metabolica
+IVU da candida
+candidosi esofagea
+Infezione in stenosi piloro con vomito
+policitemia secondaria
+IMA NSTEMI
+Frattura femore dx
+salmonellosi enterocolica
+candidosi sistemica
+Litiasi biliare
+colangite
+shock
+shock emorragico
+linfoma NH
+pancitopenia
+Mieloma multiplo
+Polmonite acquisita in comunita
+Cardiopatia ipertensiva fibrillante in TAO
+ca squamoso polmonare
+ittero ostruttivo
+Leucemia linfatica cronica
+infezione micotica
+Neoplasia polmonare metastatica
+progressione di malattia
+metastasi cerebrali
+evento tromboembolico
+Gammopatia monoclonale
+Adenocarcinoma pancreatico
+sanguinamento varici esofagee
+Linfoma B diffuso a grandi cellule
+Ascesso polmonare
+emorragia enterica
+disfagia
+Fibrillo-flutter parossistico
+anemia
+flutter atriale ad alta frequenza
+shock distributivo
+pregresso ictus
+cachessia
+fibrosi
+Politrauma fratturativo
+TVP poplitea sx
+Trombosi arteria basilare
+metastasi epatiche
+Vomito caffeano
+metastasi esofago-osso
+morte cardiaca improvvisa
+Perforazione di viscere cavo
+Emiplegia
+Carcinoma base lingua
+carcinoma esofago
+metastasi ossee
+amputazione al di sopra del ginocchio
+Carcinoma paratiroideo
+neoplasia prostatica
+Encefalopatia cronica
+Frattura anca sx
+Amputazione coscia dx
+Orchiepididimite sx
+gangrena di Fournier
+Carcinoma laringe
+metastasi intestinali
+metastasi toraciche
+metastasi epatiche
+metastasi pancreatiche
+coma
+emorragia cerebrale
+Leucemia mieloide acuta
+insufficienza mitralica
+vasculopatia
+Tetraparesi
+ulcera trocantere sx
+Infezioni tessuti molli arto sup sx

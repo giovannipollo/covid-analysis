@@ -1,9 +1,9 @@
 Pathologies:
 Pneumopatia interstiziale bilaterale
 insuff respiratoria
-versamento pleurico dx
+versamento pleurico
 arresto cardiorespiratorio
-DM
+DM2
 IVU
 addensamento polmonare
 polmonite covid
@@ -29,7 +29,7 @@ ritardo mentale
 Cardiopatia ischemica
 edema polmonare
 bypass aorto coronarico
-polmonite batterica sx
+polmonite batterica
 CID
 Colangiocarcinoma
 trombosi vena porta
@@ -47,7 +47,7 @@ sepsi
 Encefalopatia vasculo atrofica
 IR
 sdr allettamento
-Cirrosi epatica esotossica
+Cirrosi epatica
 insuf epatica
 stato settico
 Sepsi da stafilococco aureus
@@ -56,14 +56,15 @@ sdr da ipoidratazione
 polmonite nosocomiale
 Occlusione intestinale
 sdr da allettamento
-decubito sacrale e foley
+decubito sacrale
+foley
 Sepsi urinaria
 Cancrocirrosi con stenosi valvolare aortica
 ematemesi
 AOCP
 gangrena arto sx
 amputazione coscia
-Adenocarcinoma polmonare plurimetastatico
+Neoplasia polmonare metastatica
 cachessia neoplastica
 Adenocarcinoma del colon metastatico
 sovrainfezione batterica
@@ -76,7 +77,9 @@ diverticolite
 perforazione intestinale
 peritonite
 Tumore maligno a primitivita ignota
-metastasi cerebrali, polmonari, linfonodali
+metastasi cerebrali
+metastasi polmonari
+metastasi linfonodali
 decadimento cognitivo
 shock cardiogeno
 Sigmoidite
@@ -94,10 +97,8 @@ arresto respiratorio
 collasso cardiocircolatorio
 carenza accessi venosi
 posizionamento CVC femorale
-versamento pleurico
 ischemia cardiaca
-Cardiopatia ischemica cronica
-setticemia
+cardiopatia ischemica cronica
 grave piastrinopenia
 infarto miocardico
 Infarto miocardico
@@ -145,7 +146,7 @@ danno da riperfusione
 arresto cardiocircolatorio irreversibile
 Demenza
 ab ingestis
-broncopolmonite bilaterale
+polmonite bilaterale
 diarrea
 IRA prerenale
 trombocitopenia
@@ -173,7 +174,6 @@ deperimento organico
 BPCO severa
 insuf cardiorespiratoria
 Postumi osteosintesi frattura diafisaria femore sx
-polmonite batterica
 Sdr dementigena severa
 sdr da allettamento con ulcere da pressione
 cachessia
@@ -244,7 +244,6 @@ FA e scompenso cardiaco
 pericardite
 pneumomediastino spontaneo
 Colecistite acuta
-versamento pleurico neoplastico
 Polmonite nosocomiale
 polmonite alveolo interstiziale
 Carcinoma endometrio metastatico
@@ -284,7 +283,7 @@ Sepsi da batteri multiresistenti
 polmonite alveolo-interstiziale
 Deterioramento cognitivo grave
 sdr da aellttamento
-enterite da C. difficile
+enterite clostridium
 shock ipovolemico
 polmonite interstiziale bilterale
 Stato cachettico
@@ -293,7 +292,7 @@ polmonite bilaterale interstiziale
 insuf renale
 ileo paralitico
 polmonite da K. Aerogenes
-Ictus ischemico dx
+ictus
 formazione trombotica in arteria succlavia dx
 polmonite basale dx e versamento pleurico
 dispnea
@@ -327,7 +326,7 @@ enfisema polmonare
 IR grave
 scompenso glicemico
 pielonefrite
-NSTEMI IMA
+IMA NSTEMI
 insuf respiratoria globale
 Neoplasia polmonare dx
 sdr da distress respiratorio
@@ -340,7 +339,7 @@ polmonite covid interstiziale
 Carcinoma mammario recidivato con metastasi
 carcinomatosi meningea
 coma
-insfu respiratoria acuta parziale
+insuff respiratoria parziale
 BPCO riacutizzata
 acidosi respiratoria
 shock settico e MOF
@@ -348,107 +347,58 @@ Arresto cardiaco
 polmonite covid bilaterale
 Cardiopatia ischemica ad evoluzione dilatativa
 Pregresso ictus
-allettamento e cachessia
 fibrosi
-riacutizzazione BPCO
 Politrauma fratturativo
 arresto cardiocirolatorio
-infezione nosocomiale del sistema urinario
-Polmonite
-insuf respiratoria cronica riacutizzata
-Polmonite da inalazione
 TVP poplitea sx
 Trombosi arteria basilare
-Neoplasia polmonare metastatizzata
 metastasi epatiche
 Vomito caffeano
 disidratazione
-acidosi metabolica severa
-IVU da C: albicans
+acidosi metabolica
+IVU da candida
 candidosi esofagea
 Infezione in stenosi piloro con vomito
 policitemia secondaria
-Sdr da allettamento + FA parossistica e declino cognitivo
-Polmonite covid interstiziale bilaterale
-NSTEMI
 Frattura femore dx
-Infezione covid asintomatica
 salmonellosi enterocolica
-polmonite covid e batterica
-candidemia sistemica
+candidosi sistemica
 Litiasi biliare
 colangite
-Stato settico
-stato di shock
-severa disidratazione
-Polmonite covid e batterica
-broncopolmonite batterica
-Shock emorragico con ulcera gastrica e linfoma NH
+ulcera gastrica
+linfoma NH
 pancitopenia
-insuf renale e respiratoria
 Mieloma multiplo
-anemia severa
-Polmonite covid interstiziale
-Polmonite acquisita in  comunita
-insuf respiratoria con ipossia grave
+anemia
+Polmonite acquisita in comunita
+insfu respiratoria
 Cardiopatia ipertensiva fibrillante in TAO
 ca squamoso polmonare
 ittero ostruttivo
-Leucemia linfatica cronica riacutizzata
-estesa polmonite bilaterale
+Leucemia linfatica cronica
 infezione micotica
-arresto cr
-Neoplasia polmonare metastatica
 progressione di malattia
-Carcinoma polmonare metastatico
-metastasi encefaliche
-evento tromboembolico acuto
+evento tromboembolico
 Gammopatia monoclonale
-Adenocarcinoma pancreatico avanzato
+Adenocarcinoma pancreatico
 sanguinamento varici esofagee
 Linfoma B diffuso a grandi cellule
-Tumore polmonare metastatico
 Ascesso polmonare
 Occlusione intestinale da aderenze
 emorragia enterica
-Declino cognitivo e sdr da allettamento
 disfagia
 Fibrillo-flutter parossistico
-ictus ischemico dx
-scompenso cardiaco in corso di tachi FA
-sepsi grave
-Anemia grave
-infarto miocardico da discrepanza
-flutter atriale ad alta frequenza
 shock distributivo
-pregresso ictus ischemico
-diabete
-Vasto decubito sacrale
-Neoplasia polmone
+pregresso ictus
 metastasi esofago-osso
-broncopolmonite
-acidosi metabolica
-Microcitoma polmonare plurimetastatico
-polmonite da aspergillo
-Ictus cerebrale
 morte cardiaca improvvisa
 Perforazione di viscere cavo
-Scompenso cardiaco acuto
 Emiplegia
-Scompenso crdiaco
-polmonite da sovrapposizione batterica
-verosimile shock settico
-Carcinoma base lingua e carcinoma esofago
-metastasi linfonodali
-stati settici recidivanti
-AOCP IV stadio con ulcerazioni
+Carcinoma base lingua
+carcinoma esofago
 amputazione al di sopra del ginocchio
 Carcinoma paratiroideo
-metastasi polmonari
 Encefalopatia cronica
-versamento pleurico bilaterale
-insuff respiratoria in covid
-Sdr da allettamento
 IVU da K. Pneumoniae
 stati settici subentranti
 Sclerosi multipla
@@ -456,35 +406,23 @@ shock settico in ulcera sacrale infetta
 MOF in Infezione covid
 Ictus ischemico cerebrale
 Ictus ischemico
-broncopolmonite ab ingestis
 polmonite basale dx
-infarto miocardico N-STEMI
-Frattura periprotesica anca sx
-sovrainfezione ferita chirurgica
+Frattura anca sx
 Amputazione coscia dx
 Orchiepididimite sx
 gangrena di Fournier
-decadimento condizioni generali-shock settico
-sovrainfezione batterica polimicrobica
-Arresto cardiorespiratorio
 Carcinoma laringe
-replicazioni toraciche epatiche pancreatiche
-replicazioni linfonodali intestinali
-Shock settico
-emorragia cerebrale-stato di coma
-Carcinoma polmonare
+metastasi toraciche
+metastasi pancreatiche
+metastasi intestinali
 Leucemia mieloide acuta
-shock multifattoriale
-Cardiomiopatia dilatativa impianto CID
-insufficienza mitralica severa
-vasculopatia polidistrettuale
-arresto cardiorespiratorioa
+cardiopatia dilatativa
+insufficienza mitralica
+vasculopatia
 Tetraparesi
-ileo paralitico+PEG+ulcera infetta trocantere sx
-insuf respiratoria in Infezione covid
-ictus ischemico cerebrale
-sovrainfezione
-Addensamento polmonare
+Ileo paralitico
+ulcera trocantere sx
+inuff respiratoria
 Infezioni tessuti molli arto sup sx
 batteriemia
 addensamenti polmonari
@@ -496,7 +434,6 @@ decadimento condizioni generali
 Endocardite da S. Aureus
 scompenso cardiaco acuto su cronico
 Polmonite bilaterale a focolai multipli covid+
-Broncopolmonite bilaterale
 Polmonite dx
 flutter atriale ad elevata risposta ventricolare
 Deterioramento cognitivo
@@ -519,13 +456,13 @@ anemia post emorragica
 Sdr parkinsoniana acinetica
 verosimile infarto cardiaco
 Polmonite da S. Aureus
-Polmonite batterica
-Stato settico in Infezione covid
+stato settico in Infezione covid
 Ca vescicale recidivato
 MDS
 crisi epilettica
 Infezione covid con insuf respiratoria
 frattura femore
+anemia severa
 shock ipovolemico emorragico
 insuf respiratoria ipossiemica acuta
 sofferenza miocardica ischemica
@@ -540,7 +477,6 @@ metastasi ossee
 Intervento artroprotesi anca sx
 polmonite dx
 Allettamento
-anemia
 Sepsi e covid
 acidosi respiratoria a e coma ipercapnico
 allettamento
@@ -572,7 +508,6 @@ metastasi a distanza
 Insuf respiratoria cronica
 Neoformazione rene sx ascessualizzata
 Ipertensione arteriosa
-77Infezione covid
 IRC terminale
 sepsi (comrobidita: isolamento per covid, frattura renale)
 Ischemia acuta arto inf
@@ -588,10 +523,8 @@ Perforazione intestinale
 Carcinoma uterino metastatico
 carcinosi peritoneale
 IRA oligoanurica
-Cirrosi epatica a genesi epatotossica
 sepsi polimicrobica
 shoc settico
-metastasi cerebrali
 epilessia refrattaria
 sepsi severa da Gram+
 Encefalopatia atrofica
@@ -611,7 +544,7 @@ Meningioma complicato
 sdr da allettamento con decubito IV stadio
 Morbo di Waldestrom
 Occlusione intestinale da ernia ombelicale strozzata
-polmonite/broncopolmonite
+polmonite/polmonite
 ARDS in infezione da covid
 dsitress respiratorio
 Sanguinamento gastrointestinale
@@ -638,7 +571,6 @@ Mesotelioma pleurico maligno
 Gravi esiti di polmonite covid
 polmonite a focolai multipli
 sepsi da Acinetobacter
-Addensamento polmonare in tachiFA
 Polmonite basale dx
 Cardiopatia ischemica cronica post IMA
 sdr extrapiramidale
@@ -649,11 +581,9 @@ litiasi della via biliare principale
 Scompenso cardiaco congestizio
 sovrainfezione da covid
 STEMI
-Polmonite covid e batterica con anemia grave
 sepsi+ MOF
 FA parossistica
 sepsi urinaria
-NSTEMI tipo 2
 acidosi respiratoria-coma vegetativo
 Frattura radio
 delirium
@@ -674,41 +604,21 @@ Carcinoma pancreatico neuroendocrino
 Neoplasia gastrica
 sepsi sistemica
 Batteriemia stafilococcica
-Ileo paralitico
 lesione da pressione infetta
 Linfoma angioimmunoblastico
 stato soporoso
-Insufficienza cardiaca
 Fistola retto-vescicale
-cardiopatia ischemica cronica
-Tachi-fibrillazione atriale
 insuf midollare
 Frattura omero sx
 shock sistemico
 Malattia da CMV
 sdr emofagocitica
-ictus emorragico
-polmonite dx e ingombro secretorio
-grave insuf respiratoria
-TEP segmentaria
-insfu respiratoria acuta
 scompenso metabolico
-Ictus ischemico cardioembolico
-urosepsi da K. Pneumoniae
 iporessia
-stato infettivo
-demenza senile
-Sepsi da patogeno non identificato
 anuria
-STEMI con shock cardiogeno
-Cirrosi epatica
 encefalopatia porto sistemica
-insuf epatica terminale
-IRA con disidratazione
-setticemia non specificata
 polmonite covid+ab ingestis
 Setticemia
-insfu respiratoria
 infezione K. Pneumoniae
 batteriemia da MRSA
 Infezione covid paucisintomatica
@@ -717,14 +627,13 @@ polmonite covid con sovrapposizione batterica
 Setticemia non specificata
 FA in DOAC
 anemizzazione in rettorragia
-Leucemia linfatica cronica
 lesioni da pressione
 Scompenso cardiaco globale
 Tumore maligno cerebrale
 recidiva cerebrale
 sepsi polmonare
 Neoplasia renale
-metastasi polmonari e pleuriche
+metastasi pleuriche
 verosimile sovrainfezione batterica
 
 Comorbidities:
@@ -737,7 +646,6 @@ sindrome sjogren
 IRC
 ipertensione
 IR acuta su cronica
-DM
 insuff resp cronica in interstiziopatia
 cardiopatia ipertensiva dilatativa
 pace maker
@@ -765,7 +673,8 @@ cardiopatia ischemica
 insuff mitralica
 scompenso cardiaco
 adenocarcinoma polmonare
-metastasi linfonodali e ossee
+metastasi linfonodali
+metastiasi ossee
 dislipidemia
 oligofrenia in encefalopatia prenatale
 gastroenterite covid-relata
@@ -814,7 +723,6 @@ Infezione covid
 demenza mista
 cardiopatia
 encefalopatia vascolare con declino cognitivo
-demenza senile
 neoformazione nel cieco
 declino cognitivo con parkinson
 cardiopatia ischemica cronica
@@ -827,7 +735,7 @@ artrite reumatoide
 osteoporosi severa
 sdr di Down
 emorragia cerebrale dx
-setticemia da S. aureus->IVU
+stato settico da S. aureus->IVU
 shock settico
 sepsi da S
 adenocarcinoma colico chirurgicamente trattato
@@ -838,7 +746,8 @@ cachessia
 insuf respiratoria in polmonite da batteri multiresist
 recente polmonite covid
 IR ostruttiva
-metastasi polmonari di neoplasia prostatica
+metastasi polmonari
+neoplasia prostatica
 esiti di ictus ischemico
 sdr coronarica acuta
 vasculopatia cerebrale
@@ -903,7 +812,7 @@ infezione da P. Aeruginosa
 sepsi da E. Faecalis e C. Albicans
 fibrotorace dx
 scompenso cardiaco cronico
-NSTEMI recente
+IMA NSTEMI
 declino cognitivo severo
 epilessia
 piastrinopenia
@@ -966,7 +875,6 @@ linfoma follicolare
 adenoma ipofisario
 adenocarcinoma esofageo metastatico
 ischemia arto inf sx
-neoplasia polmone sx radiotrattata
 disordine linfoproliferativo T
 urosepsi da Pseudomonas
 Klebsiella
@@ -996,7 +904,7 @@ cardiopatia ischemica dilatativa
 trapianto fegato
 cardiopatia valvolare
 enfisema bolloso polmonare
-setticemia da gram +
+stato settico da gram +
 aneurisma aorta toracica
 epatopatia HCV correlata
 maculopatia
@@ -1015,7 +923,6 @@ arteriopatia obliterante arti inf
 BPCO enfisematosa
 lobectomia superiore dx per adenocarcinoma
 cardiopatia oschemica cronica
-NSTEMI
 insuf mitralica e aortica
 calcolosi renale recidivante
 orchiectomia
@@ -1042,7 +949,7 @@ cardiopatia post infartuale
 pregresso ca mammario
 ematoma rifornito arto inf dx
 IRC in dialisi
-cardiopatia ischemica in pregresso NSTEMI
+cardiopatia ischemica in pregresso IMA NSTEMI
 carcinoma paratiroideo sx recidivato infiltrante giugulare dx
 miastenia gravis
 neoplasia prostatica con metastasi ossee e polmonari
@@ -1061,7 +968,6 @@ infezione tessuti molli arti inf
 neoplasia
 infeziine covid
 versamento pleurico
-metastasi polmonari
 arteriopatia obliterante cronica arti inf
 trauma cranico
 shock settico da batteri multiresistenti
@@ -1158,25 +1064,22 @@ disidratazione
 IRA su IRC
 miocardiopatia dilatativa
 delirium ipercinetico
-setticemia
 interstiziopatia polmonare
 enfisema bolloso centrolobulare
 sdr da allettamento in esiti di amputazione piede sx
 AOCP IV stadio
 stenosi aortica severa
-vasculopatia polidistrettuale
 ipotiroidismo post chirurgico
 epatite HBV
 nefrotrapiantato in terapia immunosoppressiva
 atrofia muscolare spinale
-sepsi grave
 cardiopatia ipertensivo-fibrillante
 BPCO grave
 mieloma multiplo
 insuf respiratoria cronica da interstiziopatia NSIP
 ritardo mentale
 neoplasia esofagea metastatica
-addensamento polmonare sx
+addensamento polmonare
 sovrainfezione batterica
 angina da sforzo
 ex tabagista
@@ -1203,7 +1106,7 @@ ulcera cutanea
 dispnea da sforzo
 cardiopatia ischemica post infartuale
 MOF
-stato infettivo secondario a IVU
+stato settico secondario a IVU
 neoformazione renale sx
 stenosi valvolare aortica severa
 emicolectomia per ca sigma-retto
@@ -1211,13 +1114,11 @@ neoplasia intestinale sottoposta ad intervento chirurgico
 ipoacusia
 IVU da Proteus
 pancreatite acuta
-versamento pleurico bilaterale
 ematoma subdurale cerebrale
 sdr bronchiectasica
 epistassi massiva
 frattura anca dx
 esiti di neoplasia prostatica
-recente polmonite alevolo interstiziale covid relata
 fibrillo-flutter recidivante
 marasma senile
 declino cogntivo
@@ -1228,7 +1129,7 @@ epatite B
 linfoma NH
 ca prostatico
 pancreatite necrotizzante
-setticemia da Gram-
+stato settico da Gram-
 ca mammario
 polmonite covid con insuf respiratoria
 anemia da sanguinamento GI
@@ -1252,7 +1153,6 @@ cardiopatia ipertensiva-valvolare
 adenocarcinoma prostatico infiltrante
 encefalopatia atrofico-vascolare
 lesioni da decubito
-disfagia in PEG
 AOCP di grado severo arti inf
 frattura radio dx post traumatica
 coma iperosmolare
@@ -1265,7 +1165,6 @@ tossicita da chemioterapici
 anemia post emorragica
 ca uroteliale
 anemizzazione
-neoplasia prostatica
 encefalopatia atrofica
 cardiopatia ipertensiva-fibrillante cronica
 sdr da sommersione-caduto in pozzetto raccolta acqua piovana
@@ -1299,7 +1198,7 @@ cardiopatia ischemica ipertensiva
 ischemia intestinale
 cardiopatia ipertensiva con stenosi aortica
 frattura traumatica radio e ulna dx
-neoplasia polmonare metastatica non tipizzata
+Neoplasia polmonare metastatica
 sepsi recidivanti
 encefalopatia vascolare cronica con declino cognitivo
 cardiopatia ipertensiva valvolare
@@ -1311,7 +1210,6 @@ allettamento cronico
 demenza a corpi di Levy
 sdr ipocinetica con alettamento
 cachesia
-Infezione covid asintomatica
 esiti di iscuts ischemico
 encefalopatia multinfartuale e declino cognitivo
 adenocarcinoma del colon
@@ -1336,7 +1234,7 @@ delirium acuto in encefalopatia vascolare
 leucemia a cellule capellute
 occlusione arteria femorale superficiale
 declino cognitivo in encefalopatia vascolare cronica
-setticemia da Candida
+stato settico da Candida
 colecistite acuta
 neoplasia polmonare dx
 sepsi a genesi indeterminata
