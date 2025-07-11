@@ -1,0 +1,1435 @@
+Pathologies:
+Pneumopatia interstiziale bilaterale
+insuff respiratoria
+versamento pleurico dx
+arresto cardiorespiratorio
+DM
+IVU
+addensamento polmonare
+polmonite covid
+MOF
+shock settico
+scompenso cardiaco
+Cardiopatia ischemica post IMA
+Trauma caduta accidentale
+Infezione covid
+polmonite interstiziale
+Polmonite da sospetto covid
+ARDS
+Casellati Mauro (sospetto covid) Polmonite
+Colite ischemica
+Cardiopatia dilatativa
+arresto cardiocircolatorio
+BPCO
+obesita
+insuff cardiaca
+IRA
+Psicosi cronica
+ritardo mentale
+Cardiopatia ischemica
+edema polmonare
+bypass aorto coronarico
+polmonite batterica sx
+CID
+Colangiocarcinoma
+trombosi vena porta
+Polmonite interstiziale
+coma ipercapnico
+peggioramento del sensorio e degli scambi gassosi
+polmonite a genesi mista
+Adenocarcinoma intestinale
+peritonite stercoracea
+Polmonite covid e polimicrobica
+sepsi polimicrobica e da candida
+IRC
+Polmonite klebsiella multiresist
+sepsi
+Encefalopatia vasculo atrofica
+IR
+sdr allettamento
+Cirrosi epatica esotossica
+insuf epatica
+stato settico
+Sepsi da stafilococco aureus
+Alzheimer
+sdr da ipoidratazione
+polmonite nosocomiale
+Occlusione intestinale
+sdr da allettamento
+decubito sacrale e foley
+Sepsi urinaria
+Cancrocirrosi con stenosi valvolare aortica
+ematemesi
+AOCP
+gangrena arto sx
+amputazione coscia
+Adenocarcinoma polmonare plurimetastatico
+cachessia neoplastica
+Adenocarcinoma del colon metastatico
+sovrainfezione batterica
+ematoma retroperitoneale con anemizzazione
+TEP
+Iperpiressia
+arresto cardiaco
+arresto cardiocircolatorio respiratorio
+diverticolite
+perforazione intestinale
+peritonite
+Tumore maligno a primitivita ignota
+metastasi cerebrali, polmonari, linfonodali
+decadimento cognitivo
+shock cardiogeno
+Sigmoidite
+demenza
+insuff respiratoria in covid positivo sospetto
+ipotensione
+embolia polmonare
+micoplasma pneumoniae
+polmonite
+insuf circolatoria
+Cardiopatia ipertensiva
+arteriomiocardiosclerosi
+IMA STEMI
+arresto respiratorio
+collasso cardiocircolatorio
+carenza accessi venosi
+posizionamento CVC femorale
+versamento pleurico
+ischemia cardiaca
+Cardiopatia ischemica cronica
+setticemia
+grave piastrinopenia
+infarto miocardico
+Infarto miocardico
+insuf respiratoria in covid
+distress respiratorio
+Sdr mieloproliferativa cronica
+insu respiratoria acuta
+arresto cardio respiratorio
+insuf cardiocircolatoria
+insuff respiratoria in polmonite covid
+Demenza severa
+decadimento organico
+scompenso cardiaco acuto
+Infzione covid
+polmonite ARDS
+Encefalopatia vascolare cronica
+covid positiva
+cardiopatia post IMA
+insuf respiratoria covid positiva
+Polmonite ab ingestis
+pneumotorace dx
+Polmonite bilaterale covid
+Disturbo neurocognitivo maggiore
+insuf respiratoria (ipertensione, obesita, neoplasia prostatica operata)
+sepsi da E. Coli
+tachifibrillazione atriale
+diarrea profusa
+Demenza mista
+Riacutizzazione pneumopatia fibrosante
+sovraInfezione covid
+Scompenso cardiaco refrattario
+stato anasarcatico
+Adenocarcinoma polmonare
+stenosi bronchiale
+infezioni broncopolmonari
+SIRS
+insuf cardiocircolatoria acuta
+arresto cardiocircolatorio (interstiziopatia polmonare con ipertensione polmonare)
+BPCO enfisematosa
+Neoplasia intestinale
+declino cognitivo
+febbre in polmonite covid
+Ischemia acuta arti inf
+danno da riperfusione
+arresto cardiocircolatorio irreversibile
+Demenza
+ab ingestis
+broncopolmonite bilaterale
+diarrea
+IRA prerenale
+trombocitopenia
+insuf respiratoria parziale
+Emorragia cerebrale
+ipossia
+IMA
+Pneumopatia interstiziale in esiti di covid
+polmonite alveolo interstiziale bilat
+Colite da CMV
+sepsi da gram+
+Emorragia addominale
+shock emorragico
+pneumomediastino
+Infezione covid con polmonite interstiziale
+anemizzazione
+MOF-shock settico
+MOF-IR
+Sepsi
+Ascesso perianale con fistola stercoracea
+tachifibrillazione
+polmonite bilat con sovrainfezione batterica
+scompenso cardiaco congestizio
+deperimento organico
+BPCO severa
+insuf cardiorespiratoria
+Postumi osteosintesi frattura diafisaria femore sx
+polmonite batterica
+Sdr dementigena severa
+sdr da allettamento con ulcere da pressione
+cachessia
+Endocardite batterica ascessualizzata
+embolia settica polidistrettuale
+iperlattacidemia
+Frattura femore sx
+ipomobilita
+polmonite basale sx
+Carcinoma mammario metastatico
+Urosepsi da Klebsiella
+urosepsi da S. aureo e candida
+sepsi severa
+stato setticemico
+polmonite interstiziale bilat
+scompenso cardiaco comgestizio
+Sostituzione aorta ascendente bypass aorto coronarico
+Tumore del polmone
+Infezione covid, candida, S. Haemolyticus
+Tumore cerebrale
+emorragia cerebrale
+polmonite ab ingestis
+Addensamenti polmonari
+infezione CVC
+sepsi..>coninfezione da covid
+Polmonite alveolo interstiziale bilat covid
+BAV I e II grado
+stato soposroso
+Polmonite interstiziale bilat covid
+Emorragia digestiva
+riacutizzazione pneumopatia cronica
+scompenso cardiaco in IRA
+arresto cardiocircolatoria
+Infezione da MRSA
+IR con stato settico
+Epatocarcinoma
+Versamento pericardico
+IR terminale
+Cardiopatico portatore di pace maker
+covid positivo
+scompenso cardiocircolatorio
+arresto cardio repsiratorio
+encefalite limbica da covid
+polmonite da Acinetobacter
+Laparocele
+ischemia intestinale
+FA
+cardiopatia ischemica
+atriomegalia
+Politrauma
+pneumotorace bilaterale
+shock
+Polomonite covid
+sepsi stafilococcica, IVU
+insuff cardiaca e respiratoria
+tachiaritmia
+Ulcera duodenale
+emorragia digestiva
+candidemia
+insuf respiratoria ipercapnica
+prolungata ipossia
+embolia polmonare in TVP
+Covid +
+insuf respiratoria ipossiemica
+insuf respiratoria grave
+ARDS in polmonite bilaterale
+FA e scompenso cardiaco
+pericardite
+pneumomediastino spontaneo
+Colecistite acuta
+versamento pleurico neoplastico
+Polmonite nosocomiale
+polmonite alveolo interstiziale
+Carcinoma endometrio metastatico
+metastasi peritoneali
+occlusione intestinale
+insuff cardiaca acuta
+Carcinoma non a piccole cellule del polmone sx
+riacutizzazione scompenso cardiaco
+Infezioe covid
+polmonite covid e nosocomiale
+Deperimento organico
+Nefroangiosclerosi
+insuf renale terminale
+IR e TEP
+polmonite batterica nosocomiale
+insuf respiratoria con acidosi respiratoria
+Fratture costali multiple
+emotorace
+Polmonite covid bilaterale
+Trauma cranio-facciale
+encefalopatia settico-metabolica
+Focolai broncopolmonari multipli in long term covid
+shock settico-MOF
+sdr da immobilizzazione
+sepsi polimicrobica con candidemia
+ipertensione polmonare
+scompenso cardiaco riacutizzato
+IVU da Proteus ed E. faecalis
+Scompenso circolatorio
+ictus cerebri
+Ictus cerebro-cerebellare bilaterale
+enterocolite C. difficile
+urosepsi
+emorragia GI
+necrosi tratto digerente superiore
+Sepsi da batteri multiresistenti
+polmonite alveolo-interstiziale
+Deterioramento cognitivo grave
+sdr da aellttamento
+enterite da C. difficile
+shock ipovolemico
+polmonite interstiziale bilterale
+Stato cachettico
+marasma senile
+polmonite bilaterale interstiziale
+insuf renale
+ileo paralitico
+polmonite da K. Aerogenes
+Ictus ischemico dx
+formazione trombotica in arteria succlavia dx
+polmonite basale dx e versamento pleurico
+dispnea
+stato settico+riscontro covid
+insuff respiratoria severa
+IR riacutizzata
+tachi-fa
+Insuf respiratoria da polmonite covid
+ictus ischemici multipli
+shock cardiogeno-ipovolemico
+sepsi da stafilococco
+Scompenso cardiaco cronico
+encefalopatia involutiva
+iperpiressia polmonite covid
+scompenso cronico
+Neoplasia polmonare
+pneumotorace
+Encefalopatia vascolare
+declino cognitivo con allettamento
+polmonite bilaterale covid
+insuff respiratoria covid+
+sovrainfezione batterica polmonare
+ischemia cerebrale
+Insuf respiratoria covid
+Infezione urinaria
+IRA su cronica
+insuff respiratoria ipossiemica
+ipossiemia
+Polmonite interstiziale covid
+enfisema polmonare
+IR grave
+scompenso glicemico
+pielonefrite
+NSTEMI IMA
+insuf respiratoria globale
+Neoplasia polmonare dx
+sdr da distress respiratorio
+ictus ischemico
+Frattura femore
+Sclerosi multipla in terapia immunosoppressiva, ipertensione)
+polmonite alveolo interstiziale bilaterale
+IRA su IRC
+polmonite covid interstiziale
+Carcinoma mammario recidivato con metastasi
+carcinomatosi meningea
+coma
+insfu respiratoria acuta parziale
+BPCO riacutizzata
+acidosi respiratoria
+shock settico e MOF
+Arresto cardiaco
+polmonite covid bilaterale
+Cardiopatia ischemica ad evoluzione dilatativa
+Pregresso ictus
+allettamento e cachessia
+fibrosi
+riacutizzazione BPCO
+Politrauma fratturativo
+arresto cardiocirolatorio
+infezione nosocomiale del sistema urinario
+Polmonite
+insuf respiratoria cronica riacutizzata
+Polmonite da inalazione
+TVP poplitea sx
+Trombosi arteria basilare
+Neoplasia polmonare metastatizzata
+metastasi epatiche
+Vomito caffeano
+disidratazione
+acidosi metabolica severa
+IVU da C: albicans
+candidosi esofagea
+Infezione in stenosi piloro con vomito
+policitemia secondaria
+Sdr da allettamento + FA parossistica e declino cognitivo
+Polmonite covid interstiziale bilaterale
+NSTEMI
+Frattura femore dx
+Infezione covid asintomatica
+salmonellosi enterocolica
+polmonite covid e batterica
+candidemia sistemica
+Litiasi biliare
+colangite
+Stato settico
+stato di shock
+severa disidratazione
+Polmonite covid e batterica
+broncopolmonite batterica
+Shock emorragico con ulcera gastrica e linfoma NH
+pancitopenia
+insuf renale e respiratoria
+Mieloma multiplo
+anemia severa
+Polmonite covid interstiziale
+Polmonite acquisita in  comunita
+insuf respiratoria con ipossia grave
+Cardiopatia ipertensiva fibrillante in TAO
+ca squamoso polmonare
+ittero ostruttivo
+Leucemia linfatica cronica riacutizzata
+estesa polmonite bilaterale
+infezione micotica
+arresto cr
+Neoplasia polmonare metastatica
+progressione di malattia
+Carcinoma polmonare metastatico
+metastasi encefaliche
+evento tromboembolico acuto
+Gammopatia monoclonale
+Adenocarcinoma pancreatico avanzato
+sanguinamento varici esofagee
+Linfoma B diffuso a grandi cellule
+Tumore polmonare metastatico
+Ascesso polmonare
+Occlusione intestinale da aderenze
+emorragia enterica
+Declino cognitivo e sdr da allettamento
+disfagia
+Fibrillo-flutter parossistico
+ictus ischemico dx
+scompenso cardiaco in corso di tachi FA
+sepsi grave
+Anemia grave
+infarto miocardico da discrepanza
+flutter atriale ad alta frequenza
+shock distributivo
+pregresso ictus ischemico
+diabete
+Vasto decubito sacrale
+Neoplasia polmone
+metastasi esofago-osso
+broncopolmonite
+acidosi metabolica
+Microcitoma polmonare plurimetastatico
+polmonite da aspergillo
+Ictus cerebrale
+morte cardiaca improvvisa
+Perforazione di viscere cavo
+Scompenso cardiaco acuto
+Emiplegia
+Scompenso crdiaco
+polmonite da sovrapposizione batterica
+verosimile shock settico
+Carcinoma base lingua e carcinoma esofago
+metastasi linfonodali
+stati settici recidivanti
+AOCP IV stadio con ulcerazioni
+amputazione al di sopra del ginocchio
+Carcinoma paratiroideo
+metastasi polmonari
+Encefalopatia cronica
+versamento pleurico bilaterale
+insuff respiratoria in covid
+Sdr da allettamento
+IVU da K. Pneumoniae
+stati settici subentranti
+Sclerosi multipla
+shock settico in ulcera sacrale infetta
+MOF in Infezione covid
+Ictus ischemico cerebrale
+Ictus ischemico
+broncopolmonite ab ingestis
+polmonite basale dx
+infarto miocardico N-STEMI
+Frattura periprotesica anca sx
+sovrainfezione ferita chirurgica
+Amputazione coscia dx
+Orchiepididimite sx
+gangrena di Fournier
+decadimento condizioni generali-shock settico
+sovrainfezione batterica polimicrobica
+Arresto cardiorespiratorio
+Carcinoma laringe
+replicazioni toraciche epatiche pancreatiche
+replicazioni linfonodali intestinali
+Shock settico
+emorragia cerebrale-stato di coma
+Carcinoma polmonare
+Leucemia mieloide acuta
+shock multifattoriale
+Cardiomiopatia dilatativa impianto CID
+insufficienza mitralica severa
+vasculopatia polidistrettuale
+arresto cardiorespiratorioa
+Tetraparesi
+ileo paralitico+PEG+ulcera infetta trocantere sx
+insuf respiratoria in Infezione covid
+ictus ischemico cerebrale
+sovrainfezione
+Addensamento polmonare
+Infezioni tessuti molli arto sup sx
+batteriemia
+addensamenti polmonari
+emorragia cerebrale bilaterale
+IRC ostruttiva
+Neoplasia prostatica avanzata
+anemia cronica
+decadimento condizioni generali
+Endocardite da S. Aureus
+scompenso cardiaco acuto su cronico
+Polmonite bilaterale a focolai multipli covid+
+Broncopolmonite bilaterale
+Polmonite dx
+flutter atriale ad elevata risposta ventricolare
+Deterioramento cognitivo
+polmonite da C. Pneumoniae
+emodialisi
+sepsi da E. Faecalis
+Carcinoma ovarico
+progressione oncologica
+Trombosi mesenterica superiore
+shock emodinamico
+focolai broncopolmonari multipli bilaterali
+Subocclusione intestinale
+valvulopatia mitralica
+endocardite micotica valvola mitrale
+sepsi micotica
+Carcinoma pancreatico avanzato
+polmonite ab ingestis covid+
+Sigmoidite acuta
+anemia post emorragica
+Sdr parkinsoniana acinetica
+verosimile infarto cardiaco
+Polmonite da S. Aureus
+Polmonite batterica
+Stato settico in Infezione covid
+Ca vescicale recidivato
+MDS
+crisi epilettica
+Infezione covid con insuf respiratoria
+frattura femore
+shock ipovolemico emorragico
+insuf respiratoria ipossiemica acuta
+sofferenza miocardica ischemica
+polmonite batterica ab ingestis
+Ca esofageo localmente avanzato
+fistola tracheo-esofagea con endoprotesi
+trapianto renale
+Sepsi da MRSA
+polmonite da P. Aeruginosa
+Carcinoma mammella
+metastasi ossee
+Intervento artroprotesi anca sx
+polmonite dx
+Allettamento
+anemia
+Sepsi e covid
+acidosi respiratoria a e coma ipercapnico
+allettamento
+IVU da catetere
+Demenza senile
+cachessia e sdr da allettamento
+shock settico con MOF
+Polmonite a focolai multipli
+BAV terzo grado con impianto di pace maker
+sepsi da K. Pneumoniae
+Recidiva emorragia cerebrale
+ipertensione endocarnica
+erniazione cerebrale
+Ictus ischemico maggiore
+BAV
+bronco pleuro polmonite
+Malattia del motoneurone
+ematoma muscolare rifornito riatrogeno
+Infezione covid con polmonite lobare
+recidiva di focolaio broncopolmonare
+stato settico-verosimile CID con ipopiastrinemia
+Sdr mielodisplastica
+Colecistite litiasica
+ingombro bronchiale secretivo
+Portatrice di catetere vescicale a permanenza
+Sdr bronchiectasica riacutizzata
+Neoplasia sigma
+metastasi a distanza
+Insuf respiratoria cronica
+Neoformazione rene sx ascessualizzata
+Ipertensione arteriosa
+77Infezione covid
+IRC terminale
+sepsi (comrobidita: isolamento per covid, frattura renale)
+Ischemia acuta arto inf
+necrosi umida
+Encefalite
+sepsi a genesi indeterminata
+polmonite interstiziale (long covid)
+Carcinoma del colon
+metastasi addominali
+Neoplasia laringea
+metastasi
+Perforazione intestinale
+Carcinoma uterino metastatico
+carcinosi peritoneale
+IRA oligoanurica
+Cirrosi epatica a genesi epatotossica
+sepsi polimicrobica
+shoc settico
+metastasi cerebrali
+epilessia refrattaria
+sepsi severa da Gram+
+Encefalopatia atrofica
+sofferenza encefalica diffusa
+Ischemia intestinale
+Arteriosclerosi lipo-ialino calcifica ulcero trombotica aortica grave
+cardiomiopatia ipertrofica ventricolare sx
+congestione polmonare
+scompenso cardio respiratorio
+Adenocarcinoma colon metastatico
+adenopatie multiple
+Stenosi aortica
+Ipovolemia
+intossicazione da metformina
+Long covid
+Meningioma complicato
+sdr da allettamento con decubito IV stadio
+Morbo di Waldestrom
+Occlusione intestinale da ernia ombelicale strozzata
+polmonite/broncopolmonite
+ARDS in infezione da covid
+dsitress respiratorio
+Sanguinamento gastrointestinale
+neoplasia mammaria
+Gastrite erosiva
+sanguinamento gastroenterico
+sepsi a partenza urinaria da Pseudomonas
+polmonite con atelettasia polmonare sx
+Polmonite da pneumococco
+Polmonite in Infezione covid
+mielodepressione
+alveolite emorragica
+MOF e sepsi
+Idronefrosi
+ostruzione uretere dx
+Polmonite e Infezione covid
+Tumore del sigma
+perforazione
+Frattura collo femore dx
+anemia carenziale e da metaplasia foveolare
+Parkinson
+sepsi stafilococcica
+Mesotelioma pleurico maligno
+Gravi esiti di polmonite covid
+polmonite a focolai multipli
+sepsi da Acinetobacter
+Addensamento polmonare in tachiFA
+Polmonite basale dx
+Cardiopatia ischemica cronica post IMA
+sdr extrapiramidale
+demenza a cirpi di Lewy
+Litiasi plurima della colecisti
+colica biliare
+litiasi della via biliare principale
+Scompenso cardiaco congestizio
+sovrainfezione da covid
+STEMI
+Polmonite covid e batterica con anemia grave
+sepsi+ MOF
+FA parossistica
+sepsi urinaria
+NSTEMI tipo 2
+acidosi respiratoria-coma vegetativo
+Frattura radio
+delirium
+Declino cognitivo in encefalopatia vascolare
+Linfocitosi B monoclonale
+sepsi batterica
+Disidratazione
+disionemia grave
+Cardiopatia con bioprotesi
+insuff cardiaca con Infezione covid
+dispnea+ scompenso cardiaco distacco protesi valvolare
+distress cardiocircolatorio
+insuff cardiaca irreversibile
+Adenoca pancreas
+infiltrazione coledoco
+stato settico sistemico
+Carcinoma pancreatico neuroendocrino
+Neoplasia gastrica
+sepsi sistemica
+Batteriemia stafilococcica
+Ileo paralitico
+lesione da pressione infetta
+Linfoma angioimmunoblastico
+stato soporoso
+Insufficienza cardiaca
+Fistola retto-vescicale
+cardiopatia ischemica cronica
+Tachi-fibrillazione atriale
+insuf midollare
+Frattura omero sx
+shock sistemico
+Malattia da CMV
+sdr emofagocitica
+ictus emorragico
+polmonite dx e ingombro secretorio
+grave insuf respiratoria
+TEP segmentaria
+insfu respiratoria acuta
+scompenso metabolico
+Ictus ischemico cardioembolico
+urosepsi da K. Pneumoniae
+iporessia
+stato infettivo
+demenza senile
+Sepsi da patogeno non identificato
+anuria
+STEMI con shock cardiogeno
+Cirrosi epatica
+encefalopatia porto sistemica
+insuf epatica terminale
+IRA con disidratazione
+setticemia non specificata
+polmonite covid+ab ingestis
+Setticemia
+insfu respiratoria
+infezione K. Pneumoniae
+batteriemia da MRSA
+Infezione covid paucisintomatica
+Declino cognitivo
+polmonite covid con sovrapposizione batterica
+Setticemia non specificata
+FA in DOAC
+anemizzazione in rettorragia
+Leucemia linfatica cronica
+lesioni da pressione
+Scompenso cardiaco globale
+Tumore maligno cerebrale
+recidiva cerebrale
+sepsi polmonare
+Neoplasia renale
+metastasi polmonari e pleuriche
+verosimile sovrainfezione batterica
+
+Comorbidities:
+DM2
+IVU
+FA
+mielofibrosi idiopatica
+demenza vascolare
+sindrome sjogren
+IRC
+ipertensione
+IR acuta su cronica
+DM
+insuff resp cronica in interstiziopatia
+cardiopatia ipertensiva dilatativa
+pace maker
+DM complicato
+pregressa mastectomia
+cardiopatia dilatativa
+IRA
+scompenso
+enterite clostridium
+neoplasia uroteliale metastatica
+ulcera gastrica
+sdr apnee notturne
+BPCO
+sdr da allettamento
+decadimento cognitivo
+ictus
+FA parossistica
+IR quarto stadio
+OSAS
+BAV
+polivasculopatia
+cardiopatia ipertensiva
+encefalopatia vascolare
+cardiopatia ischemica
+insuff mitralica
+scompenso cardiaco
+adenocarcinoma polmonare
+metastasi linfonodali e ossee
+dislipidemia
+oligofrenia in encefalopatia prenatale
+gastroenterite covid-relata
+parkinson
+sdr da ipomobilita
+sdr di down
+cardiopatia congenita con difetto interventricolare
+Alzheimer
+sdr intestino irritabile
+ipertrofia prostatica
+sdr ansioso depressiva
+quadrantectomia mammella per CA
+HCV
+vasculopatia
+cardiopatia fibrillante
+gastrectomia
+cardiopatia ischemica post infarto
+TEP
+demenza
+sdr allettamento
+epatocarcinoma
+IR
+adenocarcinoma metastatico
+encefalopatia
+influenza B
+declino cognitivo
+adenocarcinoma colico operato
+embolia polmonare
+urosepsi
+encefalopatia vascolare con decadimento cognitivo
+glaucoma
+anemia cronica
+carcinoma uroteliale alto grado
+microcitoma polmonare avanzato
+polmonite covid
+ipertensione COVID POSITIVO MA DECESSO NON CAUSATO DAL COVID
+sepsi urinaria
+leucemia
+insuff respiratoria
+emicolectomia
+nefrectomia
+lobectomia polmonare
+obesita
+polmonite clamidia pneumoniae
+Infezione covid
+demenza mista
+cardiopatia
+encefalopatia vascolare con declino cognitivo
+demenza senile
+neoformazione nel cieco
+declino cognitivo con parkinson
+cardiopatia ischemica cronica
+ematoma ileopsoas
+BPCO con enfisema
+neoformazione polmonare
+cuore polmonare
+anemia
+artrite reumatoide
+osteoporosi severa
+sdr di Down
+emorragia cerebrale dx
+setticemia da S. aureus->IVU
+shock settico
+sepsi da S
+adenocarcinoma colico chirurgicamente trattato
+ematoma retroperitoneale
+esiti di emorragia cerebrale
+dialisi peritoneale
+cachessia
+insuf respiratoria in polmonite da batteri multiresist
+recente polmonite covid
+IR ostruttiva
+metastasi polmonari di neoplasia prostatica
+esiti di ictus ischemico
+sdr coronarica acuta
+vasculopatia cerebrale
+sdr decadimento organico
+gammopatia monoclonale
+carcinoma vescicale metastatico
+leucemia linfatica cronica
+declino cognitivo con sdr da allettamento
+AOCP
+ipertensione polmonare
+flutter atriale
+rettorragia
+cardiopatia ischemica post IMA
+morbo a corpi di Lewy
+cardiopatia ischemico-ipertensiva
+trombocitemia essenziale
+encefalopatia con declino cognitivo
+declino cognitivo in encefalopatia mista
+oligofrenia
+encefalopatia cronica
+neoplasia prostatica recidivata
+gastrite erosiva
+artrosi
+embolia polmonare secondaria a TVP
+sdr extrapiramidale
+decadimento organico
+rettorragia con anemia
+sepsi
+enfisema polmonare
+obesita grave
+epatopatia cronica
+paraparesi da mielopatia cervicale
+sdr da immobilizzazione
+insuff respiratoria in polmonite covid
+Parkinson encefalopatia vascolare cronica
+sovrainfezione da K. Pneumoniae
+frattura femore
+allettamento
+pregressa emorragia cerebrale
+encefalopatia vascolare cronica
+sovrainfezione da P. Aeruginosa
+asma bronchiale
+cardiopatia ipocinetica
+asma
+trapianto rene
+Parkinson
+sdr ipocinetica polifattoriale
+IMA
+linfoma non Hodgkin
+macroglobulinemia di Waldestrom
+portatrice PM
+afasia primaria
+colite da C. Difficile
+declino cognitivo in encefalopatia
+pneumopatia fibrosante
+pregressa emicolectomia per adenocarcinoma
+sepsi enterococco
+poliradiculopatia
+polineuropatia infiammatoria demielinizzante
+disturbo neurocognitivo maggiore
+infezione da P. Aeruginosa
+sepsi da E. Faecalis e C. Albicans
+fibrotorace dx
+scompenso cardiaco cronico
+NSTEMI recente
+declino cognitivo severo
+epilessia
+piastrinopenia
+sdr Klinefelter
+IR terminale
+disfagia
+encefalopatia vascolare post ictus
+emiparesi
+fibrotorace
+deperimento organico
+BPCO+OSAS
+esiti di emicolectomia per adenocarcinoma
+diabete
+encefaloaptia
+aneurisma aorta addominale
+demenza con sdr allettamento
+insuf tricuspidalica
+sostituzione valvola aortica
+schizofrenia
+ateromasia
+linfoma a grandi cellule B
+encefalopatia vascolare atrofica
+steatosi epatica
+BPCO moderata
+stato depressivo
+ipertensione arteriosa
+linfoma mantellare
+scompenso cardiaco congestizio
+cardiopatia ipertensivo fibrillante
+neoplasia polmonare
+IRA in stato settico
+encefalopatia mista
+delirium
+stenosi aortica
+TVP bilaterale arti inf
+osteoporosi
+LLC
+osteoporosi con crolli vertebrali
+pregressa ESA in aneurisma della cerebrale media
+ischemia cerebrale
+linfoma
+pregressa neoplasia  mammella
+sdr ansioso-depressiva
+colonizzazione vie urinarie da enterococco
+disionemie
+cardiopatia ischemico ipertensiva
+sepsi da candida
+edema polmonare
+encefalopatia degenerativa
+sigmoidectomia per stenosi ed occlusione intestinale
+ictus ischemico
+enfisema bolloso
+cuore polmonare cronico
+pregresso IMA
+pregresso ictus
+diverticolo di Zenker
+ipotiroidismo
+cachessia neoplastica
+linfoma follicolare
+adenoma ipofisario
+adenocarcinoma esofageo metastatico
+ischemia arto inf sx
+neoplasia polmone sx radiotrattata
+disordine linfoproliferativo T
+urosepsi da Pseudomonas
+Klebsiella
+S. aureo
+bronchiectasia
+pregressa TEP
+polmonite nosocomiale
+urosepsi da E. Coli
+covid +
+ulcera da pressione al sacro
+neoplasia prostatica avanzata
+cardiopatia post IMA
+encefalopatia associata a delirium
+enfisema polmonare in ossigeno terapia
+pancitopenia
+cirrosi epatica HCV correlata
+cardiopatia ipertrofica
+insuf respiratoria cronica
+immunodepressione
+infezione da Acinetobacter Baumanii
+decadimento cognitivo con sdr da allettamento
+pneumomediastino
+SLA
+ictus ischemico con emiparesi
+ictus cerebellare bilat
+cardiopatia ischemica dilatativa
+trapianto fegato
+cardiopatia valvolare
+enfisema bolloso polmonare
+setticemia da gram +
+aneurisma aorta toracica
+epatopatia HCV correlata
+maculopatia
+ateromasia TSA
+coronaropatia
+epatite C cronica con coma epatico
+tumori maligni fegato
+adenocarcinoma del cieco plurimetastatico
+infezione cronica di protesi aortica addominale
+amiloidosi
+pregresso carcinoma prostatico
+BAV di III grado
+portatore di pace maker
+psicosi schizofrenica
+arteriopatia obliterante arti inf
+BPCO enfisematosa
+lobectomia superiore dx per adenocarcinoma
+cardiopatia oschemica cronica
+NSTEMI
+insuf mitralica e aortica
+calcolosi renale recidivante
+orchiectomia
+appendicectomia
+stato settico
+FA in TAO
+emorragia cerebrale post traumatica
+stenosi valvolare aortica
+delirium acuto iperattivo
+amputazione piede dx
+IR in dialisi
+malattia renale cronica
+diverticolite
+declino cognitivo in encefalopatia vascolare
+pneumotorace bilaterale
+ematoma rifornito dello psoas dx
+declino cognitivo complicato da delirium
+epilessia secondaria a cavernoma temporale sx
+decadimento cognitivo senile
+insuf renale acuta su cronica
+trapianto di fegato
+encefalopatia multinfartuale
+cardiopatia post infartuale
+pregresso ca mammario
+ematoma rifornito arto inf dx
+IRC in dialisi
+cardiopatia ischemica in pregresso NSTEMI
+carcinoma paratiroideo sx recidivato infiltrante giugulare dx
+miastenia gravis
+neoplasia prostatica con metastasi ossee e polmonari
+encefalopatia e declino cognitivo
+tachifibrillazione atriale
+ematoma spontaneo non rifornito arto inf dx
+fibrosi polmonare idiopatica
+DM complicato da polineuropatia
+dissecazione aortica
+BAV in portatore di pace maker
+tetraparesi spastica
+DM scompensato
+insuf respiratoria in polmonite covid
+IMA in severa anemizzazione
+infezione tessuti molli arti inf
+neoplasia
+infeziine covid
+versamento pleurico
+metastasi polmonari
+arteriopatia obliterante cronica arti inf
+trauma cranico
+shock settico da batteri multiresistenti
+ipertensione polmonare severa
+iposurrenalismo centrale
+sovrainfezione batterica polmonare
+ulcera pilorica
+shock emorragico
+oligofrenia grave con disturbi comportamentali
+pericardite
+scompenso cardiaco in cardiopatia fibrillante
+infezione da germi multiresistenti
+ictus cerebellare subacuto
+insuf respiratoria parziale
+esiti osteosintesi arto inf dx
+evento ischemico cerebrale
+tamponamento vescicale
+obesita patologica
+cirrosi epatica dismetabolica
+pace maker bicamerale per BAV avanzato
+linfoma mantellare stadio IV
+covid lungo positivo
+CID
+covid positivo
+aritmia sovraventricolare
+nefroangiosclerosi
+polivasculopatia multidistrettuale
+cardiopatia ischemica cronica post IMA
+decadimento cognitivo severo
+cardiopatia ipertensiva e fibrillante
+neoplasia vescicale sospetta
+infezione HIV
+portatrice di PM
+adenocarcinoma colico
+emodialisi
+iperkaliemia
+fibrillo-flutter atriale
+silicosi
+nefrostomia bilaterale per infiltrazione neoplastica vescica
+sovrappeso
+anemia emolitica autoimmune
+linfocitosi B clonale
+trait beta talassemico
+cardiopatia ipertrofico-ipertensiva
+insuf respiratoria cronica in BPCO
+ex abuso di sostanze stupefacenti
+tireopatia autoimmune
+demenza severa
+long covid
+neoplasia mammaria
+trombosi CVC
+tachifibrillazione atriale parossistica
+cardiopatia ischemica cronica con bypass coronarico
+leucemia linfatica cronica in trattamento
+pregresse TEP e TVP
+pregresso linfoma NH recidivato nel 2020
+wedge resection LIS nel 2011
+FA parossistica in NAO
+ipercolesterolemia
+esiti di duplice emorragia cerebrale
+pneumotorace dx
+portatore di pace maker per BAV completo
+cardiopatia ischemica+ FA in NAO
+ulcera gastrica cronica
+portatrice di pace maker per aritmie
+BPCO riacutizzata
+carcinoma mammario sx
+aneurisma aorta sotto renale
+grave BPCO enfisematosa
+FA persistente
+epatopatia esotossica
+IRC V stadio
+FA in portatrice di pace maker
+Infezione covid paucisintomatica
+sdr mielodisplastica
+paralisi diaframmatica sx
+emicolectomia dx per adenocarcinoma
+poliglobulia
+episodi recidivanti di IVU
+tachifa
+adenopatia
+bronchite cronica
+pneumopatia interstiziale diffusa
+cachessia senile
+cifoscoliosi
+sepsi da E. coli
+neoplasia rettale metastatica
+sdr ipocinetica
+cardiopatia ischemica fibrillante ipertensiva
+metastasi cerebrale da carcinoma renale
+BPCO in ossigenoterapia
+CPAP domiciliare per OSAS
+disidratazione
+IRA su IRC
+miocardiopatia dilatativa
+delirium ipercinetico
+setticemia
+interstiziopatia polmonare
+enfisema bolloso centrolobulare
+sdr da allettamento in esiti di amputazione piede sx
+AOCP IV stadio
+stenosi aortica severa
+vasculopatia polidistrettuale
+ipotiroidismo post chirurgico
+epatite HBV
+nefrotrapiantato in terapia immunosoppressiva
+atrofia muscolare spinale
+sepsi grave
+cardiopatia ipertensivo-fibrillante
+BPCO grave
+mieloma multiplo
+insuf respiratoria cronica da interstiziopatia NSIP
+ritardo mentale
+neoplasia esofagea metastatica
+addensamento polmonare sx
+sovrainfezione batterica
+angina da sforzo
+ex tabagista
+polivasculopatia diabetica
+nefropatia diabetica
+emorragia digestiva
+ex fumatrice
+trombocitopenia
+subocclusione intestinale da coprostasi
+infezione asintomatica covid
+gastrectomia totale ed emicolectomia
+FA parosssistica
+cardiopatia aritmogena ipertensiva
+sospetta mielofibrosi
+tiroidite autoimmune
+parkinsonismo
+Infezione covid->miastenia gravis->DM->FA
+pregressa pancreatite
+pregressa miocardite
+enfisema polmonare e fibrosi
+sclerosi multipla
+nefrolitiasi bilaterale
+ulcera cutanea
+dispnea da sforzo
+cardiopatia ischemica post infartuale
+MOF
+stato infettivo secondario a IVU
+neoformazione renale sx
+stenosi valvolare aortica severa
+emicolectomia per ca sigma-retto
+neoplasia intestinale sottoposta ad intervento chirurgico
+ipoacusia
+IVU da Proteus
+pancreatite acuta
+versamento pleurico bilaterale
+ematoma subdurale cerebrale
+sdr bronchiectasica
+epistassi massiva
+frattura anca dx
+esiti di neoplasia prostatica
+recente polmonite alevolo interstiziale covid relata
+fibrillo-flutter recidivante
+marasma senile
+declino cogntivo
+melanoma metastatico
+diabete scompensato
+carcinoma gastrico metastatico
+epatite B
+linfoma NH
+ca prostatico
+pancreatite necrotizzante
+setticemia da Gram-
+ca mammario
+polmonite covid con insuf respiratoria
+anemia da sanguinamento GI
+adenoma prostatico
+trapianto di rene
+epatopatia
+anasarca
+sdr da allettamento in morbo di Parkinson
+disionie
+appendicite acuta
+gangrena di Fournier
+frattura femore dx
+IVU da candida
+infezione paucisintomatica covid
+pneumotorace
+emorragia subaracnoidea
+polmonite a focolai multipli da covid
+nodulo polmonare non diagnosticato
+morbo di Chron
+cardiopatia ipertensiva-valvolare
+adenocarcinoma prostatico infiltrante
+encefalopatia atrofico-vascolare
+lesioni da decubito
+disfagia in PEG
+AOCP di grado severo arti inf
+frattura radio dx post traumatica
+coma iperosmolare
+ipernatriemia
+esiti di frattura femore sx
+esiti ictus
+disidratazione determinante IRA e ipernatriemia
+morbo di Waldestrom
+tossicita da chemioterapici
+anemia post emorragica
+ca uroteliale
+anemizzazione
+neoplasia prostatica
+encefalopatia atrofica
+cardiopatia ipertensiva-fibrillante cronica
+sdr da sommersione-caduto in pozzetto raccolta acqua piovana
+ischemia miocardica cronica
+decadimento psico-organico
+covid+
+carcinoma del retto replicato
+sdr metabolica
+decadimento delle condizioni generali
+cirrosi epatica su base epatotossica
+insufficienza epatica con scompenso ascitico
+micosi esofagea
+frattura pertrocanterica sx
+covid recente
+trombosi arto sup sx
+ipokaliemia
+infezione  batterica a partenza non definita
+HIV+
+HCV+
+tossicodipendente
+subocclusione intestinale
+esiti di ictus
+versamento ascitico
+Infezione covid recente
+sigmoidectomia per adenoma
+disordine linfoproliferativo cronico B
+portatore di pacemaker
+disturbo neurocognitivo maggiore severo
+FA permanente
+cardiopatia ischemica ipertensiva
+ischemia intestinale
+cardiopatia ipertensiva con stenosi aortica
+frattura traumatica radio e ulna dx
+neoplasia polmonare metastatica non tipizzata
+sepsi recidivanti
+encefalopatia vascolare cronica con declino cognitivo
+cardiopatia ipertensiva valvolare
+linfoma H
+pregresso k prostata
+leucemia mieloide acuta sottoposta a trapianto di midollo
+mielodisplasia
+allettamento cronico
+demenza a corpi di Levy
+sdr ipocinetica con alettamento
+cachesia
+Infezione covid asintomatica
+esiti di iscuts ischemico
+encefalopatia multinfartuale e declino cognitivo
+adenocarcinoma del colon
+cardiopatia ischemica ipertensiva-fibrillante
+IR III stadio
+sostituzione valvola aortica e pregressa endocardite
+neoplasia mammaria sx non tipizzata
+trombosi venosa arto sup sx
+insuf aortica
+insuf pancreatica
+esisti di emorragia cerebrale
+polmonite
+epilessia focale
+pancreatite cronica
+vasculopatia aortica con protesi meccanica
+candidosi esofagea
+anemizzazione acuta
+decadimento organico senile
+ulcere necrotiche arti inf
+grave declino cognitivo
+delirium acuto in encefalopatia vascolare
+leucemia a cellule capellute
+occlusione arteria femorale superficiale
+declino cognitivo in encefalopatia vascolare cronica
+setticemia da Candida
+colecistite acuta
+neoplasia polmonare dx
+sepsi a genesi indeterminata
+IVU ricorrenti
+neoformazione renale
+severo declino cognitivo
+esiti di ca tonsillare
+Parkinson con declino cognitivo
+recente Infezione covid
+embolia polmonare in terapia anticoagulante
+allettamento con decubito
+encefalopatia HCV correlata
+cardiopatia ipertensivo-dilatativa
+portatrice di pace maker
+IRC terminale in dialisi
+isolamento per covid
+emicolectomia dx per adc
+lobectomia polmonare sx per adc
+IRC terminale
+fibromialgia
+cardiopatia ipertensiva-ischemico-fibrillante
+ematoma rifornito muscolo ileo-psoas dx
+metastasi epatiche da neoplasia primitiva occulta
+macroematuria con anemizzazione
+raccolta ematica spalla dx in esiti di frattura
+cardiopatia ipocinetica dilatativa
+distrofia in ventilazione domiciliare
+vasculite ANCA
+disturbo bipolare
+sdr da allettamento con decubito sacrale
+demenza a corpi di Lewy
+BAV avanzato con pace maker
+declino cognitivo cronico
+nessuna dose di vaccino anti covid
+esiti di TEP
+pregressa mastectomia per carcinoma
+idropneumotorace
+squilibrio elettrolitico
+malattia da reflusso
+cirrosi epatica con varici esofagee
+carcinoma intraduttale pancreas
+disturbo neurocognitivo maggiore di grado severo
+esiti di resezione gastrica
+stato settico in piede diabetico
+cardiopatia ischemica e valvolare aortica
+sospetta neoplasia uroteliale
+carcinoma tiroideo
+scompenso glicemico
+sarcopenia
+esiti di emorragie cerebrali
+carcinoma mammario dx
+Tako Tsubo
+polineuropatia demielinizzante
+ateromasia dei TSA
+esiti di bilobectomia polmonare dx per ca squamoso
+tachicardia in  FA
+storia di epilessia
+politrauma stradale
+sospetta neoplasia polmonare lobo sup dx
+wnfisema centro-lobulare con fibrosi
+fratture costali
+ipertensione arteriosa sistemica e polmonare
+cardiopatia ipertensiva-defibrillante
+frattura femore sx
+occlusione intestinale
+anemizzazione post chirurgica
+tetraparesi
+arteropatia cronica ostruttiva arti inf
+anemia e piastrinopaenia
+cardiopatia ipertensiva fibrillante
+candidiasi sistemica
+sospetto linfoma H
+ipertensione arteriosa polmonare
+laparocele complicato
+decadimento condizioni generali
+favismo
+endocardite aortica
+infezione paucisintomatica da covid
+lesione tiroidea
+TVP
+trombosi portale
+acidosi metabolica
+insuf renale riacutizzata pre renale
+meningioma
+sdr da apnee del sonno
+glomerulosclerosi segmemntaria/sdr nefrosica
+immunodepressione covid-relata
+portatore ICD
+asma allergica
+leucemia mieloide acuta
+lesioni da pressione
+encefalopatia vascolare con disturbo cognitivo severo
+emopericardio
+encefalopatia multi-infartuale
+iponatriemia
+crisi epilettica
