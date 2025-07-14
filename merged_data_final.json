@@ -30,7 +30,7 @@
         ],
         "comorbidities": [
             "dm2",
-            "mielofibrosi idiopatica",
+            "mielofibrosi",
             "demenza vascolare"
         ],
         "id": 1,
@@ -71,7 +71,7 @@
             "mof"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "ipertensione",
             "dm2"
         ],
@@ -94,7 +94,7 @@
         "comorbidities": [
             "insufficienza respiratoria",
             "irc",
-            "cardiopatia ipertensiva dilatativa"
+            "cardiopatia dilatativa"
         ],
         "id": 4,
         "custom-id": 6,
@@ -108,7 +108,7 @@
     },
     {
         "pathologies": [
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "polmonite covid",
             "insufficienza respiratoria",
             "shock settico"
@@ -134,7 +134,7 @@
             "shock settico"
         ],
         "comorbidities": [
-            "dm complicato",
+            "dm2",
             "ipertensione",
             "mastectomia"
         ],
@@ -177,7 +177,7 @@
         ],
         "comorbidities": [
             "ira",
-            "scompenso"
+            "scompenso cardiaco"
         ],
         "id": 8,
         "custom-id": 10,
@@ -318,7 +318,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "osas",
             "ipertensione"
         ],
@@ -666,7 +666,7 @@
         "comorbidities": [
             "ipertensione",
             "dm2",
-            "ir"
+            "irc"
         ],
         "id": 32,
         "custom-id": 34,
@@ -767,7 +767,7 @@
             "mof"
         ],
         "comorbidities": [
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "tep"
         ],
         "id": 37,
@@ -843,7 +843,7 @@
         ],
         "comorbidities": [
             "neoplasia epatica",
-            "ir",
+            "irc",
             "dm2"
         ],
         "id": 41,
@@ -862,7 +862,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "neoplasia metastatica",
+            "metastasi",
             "cardiopatia ischemica",
             "encefalopatia"
         ],
@@ -957,7 +957,7 @@
             "polmonite covid"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "scompenso cardiaco",
             "fa"
         ],
@@ -1057,7 +1057,7 @@
         ],
         "comorbidities": [
             "decadimento cognitivo",
-            "scompenso"
+            "scompenso cardiaco"
         ],
         "id": 52,
         "custom-id": 54,
@@ -1077,7 +1077,7 @@
         ],
         "comorbidities": [
             "cardiopatia ischemica",
-            "neoplasia del colon ",
+            "neoplasia del colon",
             "polivasculopatia"
         ],
         "id": 53,
@@ -1096,7 +1096,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "embolia polmonare",
+            "tep",
             "dm2",
             "fa"
         ],
@@ -1117,9 +1117,9 @@
             "coma ipercapnico"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "scompenso cardiaco",
-            "sepsi urinaria"
+            "ivu"
         ],
         "id": 55,
         "custom-id": 57,
@@ -1224,7 +1224,7 @@
         ],
         "comorbidities": [
             "cardiopatia ipertensiva",
-            "neoplasia uroteliale alto grado",
+            "neoplasia uroteliale",
             "irc"
         ],
         "id": 60,
@@ -1263,7 +1263,7 @@
             "mof"
         ],
         "comorbidities": [
-            "microcitoma polmonare avanzato",
+            "neoplasia polmonare",
             "ipertensione",
             "dm2"
         ],
@@ -1300,7 +1300,7 @@
     },
     {
         "pathologies": [
-            "neoplasia del colon ",
+            "neoplasia del colon",
             "peritonite",
             "shock settico",
             "mof"
@@ -1327,7 +1327,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "sepsi urinaria",
+            "ivu",
             "leucemia",
             "sdr da allettamento"
         ],
@@ -1349,7 +1349,7 @@
             "shock settico"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "insufficienza respiratoria",
             "emicolectomia per neoplasia",
             "nefrectomia",
@@ -1393,7 +1393,7 @@
             "ira"
         ],
         "comorbidities": [
-            "polmonite clamidia pneumoniae"
+            "polmonite batterica"
         ],
         "id": 68,
         "custom-id": 70,
@@ -1450,7 +1450,7 @@
     },
     {
         "pathologies": [
-            "encefalopatia vasculo atrofica",
+            "encefalopatia vascolare atrofica",
             "polmonite covid",
             "insufficienza respiratoria"
         ],
@@ -1513,7 +1513,7 @@
         "pathologies": [
             "insufficienza respiratoria",
             "polmonite covid",
-            "ir",
+            "irc",
             "mof"
         ],
         "comorbidities": [
@@ -1533,7 +1533,7 @@
     },
     {
         "pathologies": [
-            "encefalopatia vasculo atrofica",
+            "encefalopatia vascolare atrofica",
             "sdr da allettamento",
             "polmonite covid",
             "insufficienza respiratoria"
@@ -1656,7 +1656,7 @@
     {
         "pathologies": [
             "polmonite covid",
-            "stato settico",
+            "setticemia",
             "insufficienza respiratoria"
         ],
         "comorbidities": [
@@ -1699,7 +1699,7 @@
             "mof"
         ],
         "comorbidities": [
-            "ematoma rifornito ileopsoas",
+            "ematoma rifornito muscolare",
             "fa",
             "dm2"
         ],
@@ -1742,7 +1742,7 @@
         ],
         "comorbidities": [
             "bpco",
-            "cuore polmonare",
+            "cuore polmonare cronico",
             "anemia"
         ],
         "id": 85,
@@ -1798,7 +1798,7 @@
     },
     {
         "pathologies": [
-            "encefalopatia vasculo atrofica",
+            "encefalopatia vascolare atrofica",
             "alzheimer",
             "disidratazione",
             "ira"
@@ -1825,7 +1825,7 @@
         ],
         "comorbidities": [
             "emorragia cerebrale",
-            "stato settico",
+            "setticemia",
             "ivu"
         ],
         "id": 89,
@@ -1886,7 +1886,7 @@
             "mof"
         ],
         "comorbidities": [
-            "neoplasia del colon ",
+            "neoplasia del colon",
             "fa",
             "ematoma retroperitoneale"
         ],
@@ -1923,7 +1923,7 @@
     },
     {
         "pathologies": [
-            "sepsi urinaria"
+            "ivu"
         ],
         "comorbidities": [
             "esiti di emorragia cerebrale",
@@ -1937,7 +1937,7 @@
         "deathdate": "2020-06-09",
         "operating_unit": "med int",
         "covid-positive": true,
-        "cause-of-death": "sepsi urinaria"
+        "cause-of-death": "ivu"
     },
     {
         "pathologies": [
@@ -1963,7 +1963,7 @@
             "aocp",
             "gangrena arto",
             "amputazione coscia",
-            "stato settico"
+            "setticemia"
         ],
         "comorbidities": [
             "dialisi peritoneale",
@@ -1978,7 +1978,7 @@
         "deathdate": "2020-06-13",
         "operating_unit": "nefro",
         "covid-positive": true,
-        "cause-of-death": "stato settico"
+        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -2003,13 +2003,13 @@
     },
     {
         "pathologies": [
-            "neoplasia del colon ",
+            "neoplasia del colon",
             "ira",
             "shock settico",
             "arresto cardiaco"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "infezione covid"
         ],
         "id": 98,
@@ -2380,7 +2380,7 @@
         ],
         "comorbidities": [
             "rettorragia",
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "demenza a corpi di lewy"
         ],
         "id": 116,
@@ -2402,7 +2402,7 @@
         ],
         "comorbidities": [
             "decadimento cognitivo",
-            "cardiopatia ischemico-ipertensiva"
+            "cardiopatia ischemica"
         ],
         "id": 117,
         "custom-id": 119,
@@ -2602,7 +2602,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "cardiopatia ischemico-ipertensiva",
+            "cardiopatia ischemica",
             "dm2",
             "neoplasia prostatica"
         ],
@@ -2706,7 +2706,7 @@
         ],
         "comorbidities": [
             "decadimento cognitivo",
-            "embolia polmonare",
+            "tep",
             "cardiopatia ipertensiva"
         ],
         "id": 132,
@@ -2744,7 +2744,7 @@
     {
         "pathologies": [
             "polmonite covid",
-            "embolia polmonare",
+            "tep",
             "insufficienza respiratoria",
             "mof"
         ],
@@ -2772,7 +2772,7 @@
         ],
         "comorbidities": [
             "enfisema polmonare",
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "ira"
         ],
         "id": 135,
@@ -2869,7 +2869,7 @@
     {
         "pathologies": [
             "cardiopatia ipertensiva",
-            "arteriomiocardiosclerosi",
+            "miocardiosclerosi",
             "ima stemi",
             "arresto cardiaco"
         ],
@@ -2952,7 +2952,7 @@
             "mof"
         ],
         "comorbidities": [
-            "neoplasia uroteliale alto grado"
+            "neoplasia uroteliale"
         ],
         "id": 144,
         "custom-id": 146,
@@ -3331,8 +3331,8 @@
             "mof"
         ],
         "comorbidities": [
-            "cardiopatia ischemica post ima",
-            "sdr ipocinetica polifattoriale"
+            "cardiopatia ischemica",
+            "sdr ipocinetica"
         ],
         "id": 163,
         "custom-id": 165,
@@ -3366,13 +3366,13 @@
     },
     {
         "pathologies": [
-            "sepsi urinaria",
+            "ivu",
             "mof"
         ],
         "comorbidities": [
             "polmonite covid",
             "dm2",
-            "linfoma non hodgkin"
+            "linfoma nh"
         ],
         "id": 165,
         "custom-id": 167,
@@ -3393,7 +3393,7 @@
         "comorbidities": [
             "polmonite covid",
             "irc",
-            "macroglobulinemia di waldestrom"
+            "morbo di waldestrom"
         ],
         "id": 166,
         "custom-id": 168,
@@ -3408,7 +3408,7 @@
     {
         "pathologies": [
             "polmonite covid",
-            "stato settico",
+            "setticemia",
             "piastrinopenia",
             "arresto cardiaco"
         ],
@@ -3530,7 +3530,7 @@
     {
         "pathologies": [
             "polmonite covid",
-            "stato settico",
+            "setticemia",
             "mof"
         ],
         "comorbidities": [
@@ -3666,7 +3666,7 @@
         "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria",
-            "ir",
+            "irc",
             "mof"
         ],
         "comorbidities": [
@@ -3709,7 +3709,7 @@
             "mof"
         ],
         "comorbidities": [
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 182,
         "custom-id": 184,
@@ -3803,7 +3803,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "sepsi enterococco",
+            "sepsi batterica",
             "poliradiculopatia"
         ],
         "id": 187,
@@ -4227,7 +4227,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "fa"
         ],
         "id": 208,
@@ -4301,7 +4301,7 @@
     {
         "pathologies": [
             "dm2",
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "insufficienza respiratoria",
             "infezione covid",
             "arresto cardiorespiratorio"
@@ -4407,7 +4407,7 @@
         ],
         "comorbidities": [
             "sdr klinefelter",
-            "ir"
+            "irc"
         ],
         "id": 217,
         "custom-id": 219,
@@ -4504,7 +4504,7 @@
         "pathologies": [
             "infezione covid",
             "diarrea",
-            "ir",
+            "irc",
             "arresto cardiaco"
         ],
         "comorbidities": [
@@ -4570,7 +4570,7 @@
         "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria",
-            "ir",
+            "irc",
             "arresto cardiorespiratorio"
         ],
         "comorbidities": [
@@ -4617,7 +4617,7 @@
         "comorbidities": [
             "bpco",
             "ipertensione",
-            "esiti di emicolectomia per neoplasia"
+            "emicolectomia per neoplasia"
         ],
         "id": 227,
         "custom-id": 229,
@@ -4633,7 +4633,7 @@
         "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria",
-            "ir",
+            "irc",
             "mof"
         ],
         "comorbidities": [
@@ -4653,14 +4653,14 @@
     {
         "pathologies": [
             "polmonite covid",
-            "stato settico",
+            "setticemia",
             "ira",
             "arresto cardiorespiratorio"
         ],
         "comorbidities": [
             "encefalopatia",
             "sdr da allettamento",
-            "cardiopatia ischemico-ipertensiva"
+            "cardiopatia ischemica"
         ],
         "id": 229,
         "custom-id": 231,
@@ -4724,7 +4724,7 @@
         "comorbidities": [
             "demenza",
             "sdr da allettamento",
-            "ir",
+            "irc",
             "ipertensione"
         ],
         "id": 232,
@@ -4886,7 +4886,7 @@
             "mof"
         ],
         "comorbidities": [
-            "linfoma a grandi cellule b"
+            "linfoma b diffuso a grandi cellule"
         ],
         "id": 240,
         "custom-id": 242,
@@ -4963,7 +4963,7 @@
             "enfisema polmonare",
             "polmonite",
             "insufficienza respiratoria",
-            "stato settico"
+            "setticemia"
         ],
         "comorbidities": [
             "infezione covid",
@@ -4978,7 +4978,7 @@
         "deathdate": "2021-01-04",
         "operating_unit": "pneumo",
         "covid-positive": true,
-        "cause-of-death": "stato settico"
+        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -5090,7 +5090,7 @@
         ],
         "comorbidities": [
             "scompenso cardiaco",
-            "cardiopatia ipertensivo fibrillante"
+            "cardiopatia ipertensiva fibrillante"
         ],
         "id": 250,
         "custom-id": 252,
@@ -5209,7 +5209,7 @@
         ],
         "comorbidities": [
             "ira",
-            "stato settico",
+            "setticemia",
             "encefalopatia",
             "delirium",
             "stenosi aortica"
@@ -5516,7 +5516,7 @@
         "pathologies": [
             "polmonite covid",
             "sovrainfezione batterica",
-            "stato settico"
+            "setticemia"
         ],
         "comorbidities": [
             "disturbo neurocognitivo maggiore"
@@ -5529,7 +5529,7 @@
         "deathdate": "2021-01-15",
         "operating_unit": "med int",
         "covid-positive": true,
-        "cause-of-death": "stato settico"
+        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -5595,7 +5595,7 @@
         "comorbidities": [
             "bpco",
             "irc",
-            "cardiopatia ischemico ipertensiva"
+            "cardiopatia ischemica"
         ],
         "id": 275,
         "custom-id": 277,
@@ -5806,7 +5806,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "stenosi aortica",
             "polivasculopatia"
         ],
@@ -5827,7 +5827,7 @@
             "mof"
         ],
         "comorbidities": [
-            "enfisema bolloso polmonare"
+            "enfisema polmonare"
         ],
         "id": 287,
         "custom-id": 289,
@@ -5848,8 +5848,8 @@
         ],
         "comorbidities": [
             "infezione covid",
-            "ir",
-            "cuore polmonare"
+            "irc",
+            "cuore polmonare cronico"
         ],
         "id": 288,
         "custom-id": 290,
@@ -5914,7 +5914,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "diverticolo di zenker"
+            "diverticolite"
         ],
         "id": 291,
         "custom-id": 293,
@@ -5935,7 +5935,7 @@
             "arresto cardiaco"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "ipertensione",
             "ipotiroidismo"
         ],
@@ -5953,7 +5953,7 @@
         "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria",
-            "ir",
+            "irc",
             "mof",
             "shock settico"
         ],
@@ -5991,7 +5991,7 @@
             "polmonite covid",
             "insufficienza respiratoria",
             "mof",
-            "ir",
+            "irc",
             "shock settico"
         ],
         "comorbidities": [
@@ -6012,7 +6012,7 @@
     {
         "pathologies": [
             "infezione covid",
-            "stato settico",
+            "setticemia",
             "ira"
         ],
         "comorbidities": [
@@ -6191,7 +6191,7 @@
         "comorbidities": [
             "bpco",
             "dm2",
-            "cardiopatia ipertensivo fibrillante"
+            "cardiopatia ipertensiva fibrillante"
         ],
         "id": 304,
         "custom-id": 306,
@@ -6271,9 +6271,9 @@
             "scompenso cardiaco"
         ],
         "comorbidities": [
-            "sepsi urinaria",
-            "klebsiella",
-            "s. aureo"
+            "ivu",
+            "sovrainfezione batterica",
+            "stafilococco aureo"
         ],
         "id": 308,
         "custom-id": 310,
@@ -6381,7 +6381,7 @@
         ],
         "comorbidities": [
             "irc",
-            "sepsi urinaria",
+            "ivu",
             "infezione covid",
             "lesione da pressione infetta"
         ],
@@ -6419,7 +6419,7 @@
         "pathologies": [
             "endocardite",
             "insufficienza cardiaca",
-            "ir",
+            "irc",
             "embolia settica polidistrettuale"
         ],
         "comorbidities": [
@@ -6507,7 +6507,7 @@
         ],
         "comorbidities": [
             "dm2",
-            "ir",
+            "irc",
             "cardiopatia ischemica"
         ],
         "id": 319,
@@ -6522,13 +6522,13 @@
     },
     {
         "pathologies": [
-            "sepsi urinaria",
+            "ivu",
             "sepsi",
-            "stato settico"
+            "setticemia"
         ],
         "comorbidities": [
             "irc",
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "encefalopatia associata a delirium"
         ],
         "id": 320,
@@ -6539,7 +6539,7 @@
         "deathdate": "2021-02-01",
         "operating_unit": "geriatria",
         "covid-positive": false,
-        "cause-of-death": "stato settico"
+        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -6548,7 +6548,7 @@
         ],
         "comorbidities": [
             "irc",
-            "cardiopatia ischemico-ipertensiva"
+            "cardiopatia ischemica"
         ],
         "id": 321,
         "custom-id": 323,
@@ -6670,7 +6670,7 @@
         "comorbidities": [
             "dm2",
             "pancitopenia",
-            "cirrosi epatica hcv"
+            "cirrosi epatica"
         ],
         "id": 327,
         "custom-id": 329,
@@ -6722,7 +6722,7 @@
     {
         "pathologies": [
             "scompenso cardiaco",
-            "ir",
+            "irc",
             "sepsi",
             "insufficienza respiratoria"
         ],
@@ -6791,7 +6791,7 @@
             "shock settico"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "immunodepressione",
             "sovrainfezione batterica"
         ],
@@ -7255,7 +7255,7 @@
             "mof"
         ],
         "comorbidities": [
-            "enfisema bolloso polmonare",
+            "enfisema polmonare",
             "ipertensione"
         ],
         "id": 356,
@@ -7278,7 +7278,7 @@
         "comorbidities": [
             "fa",
             "epilessia",
-            "stato settico"
+            "setticemia"
         ],
         "id": 357,
         "custom-id": 359,
@@ -7392,7 +7392,7 @@
             "fa",
             "decadimento cognitivo",
             "aneurisma aorta toracica",
-            "epatopatia hcv"
+            "epatopatia"
         ],
         "id": 363,
         "custom-id": 365,
@@ -7433,7 +7433,7 @@
         ],
         "comorbidities": [
             "bpco",
-            "cuore polmonare",
+            "cuore polmonare cronico",
             "fa",
             "decadimento cognitivo"
         ],
@@ -7663,7 +7663,7 @@
         ],
         "comorbidities": [
             "infezione covid",
-            "ir",
+            "irc",
             "amiloidosi"
         ],
         "id": 376,
@@ -7718,8 +7718,8 @@
         "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria",
-            "ir",
-            "stato settico",
+            "irc",
+            "setticemia",
             "arresto cardiorespiratorio"
         ],
         "comorbidities": [
@@ -7781,7 +7781,7 @@
             "mof"
         ],
         "comorbidities": [
-            "ir"
+            "irc"
         ],
         "id": 382,
         "custom-id": 384,
@@ -7824,7 +7824,7 @@
         "comorbidities": [
             "bav",
             "pace maker",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 384,
         "custom-id": 386,
@@ -7838,7 +7838,7 @@
     },
     {
         "pathologies": [
-            "ir",
+            "irc",
             "polmonite nosocomiale",
             "sepsi"
         ],
@@ -7924,7 +7924,7 @@
             "shock cardiogeno"
         ],
         "comorbidities": [
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "encefalopatia vascolare",
             "decadimento cognitivo"
         ],
@@ -8030,7 +8030,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "stato settico",
+            "setticemia",
             "ipertensione"
         ],
         "id": 394,
@@ -8347,7 +8347,7 @@
         ],
         "comorbidities": [
             "ipertensione",
-            "stenosi valvolare aortica"
+            "stenosi aortica"
         ],
         "id": 410,
         "custom-id": 412,
@@ -8405,7 +8405,7 @@
         ],
         "comorbidities": [
             "amputazione piede",
-            "ir",
+            "irc",
             "dialisi"
         ],
         "id": 413,
@@ -8528,7 +8528,7 @@
         "comorbidities": [
             "bpco",
             "fa",
-            "ematoma rifornito ileopsoas"
+            "ematoma rifornito muscolare"
         ],
         "id": 419,
         "custom-id": 421,
@@ -8668,7 +8668,7 @@
             "shock settico"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "ipertensione",
             "trapianto fegato"
         ],
@@ -8691,7 +8691,7 @@
         ],
         "comorbidities": [
             "fa",
-            "encefalopatia multinfartuale"
+            "encefalopatia multi-infartuale"
         ],
         "id": 427,
         "custom-id": 429,
@@ -8793,7 +8793,7 @@
         ],
         "comorbidities": [
             "asma",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 432,
         "custom-id": 434,
@@ -8849,7 +8849,7 @@
         "pathologies": [
             "infezione covid",
             "polmonite covid",
-            "embolia polmonare",
+            "tep",
             "tvp",
             "insufficienza respiratoria"
         ],
@@ -9040,7 +9040,7 @@
             "ards"
         ],
         "comorbidities": [
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 444,
         "custom-id": 446,
@@ -9060,8 +9060,7 @@
         ],
         "comorbidities": [
             "irc",
-            "fa",
-            "ematoma spontaneo non rifornito arto inf"
+            "fa"
         ],
         "id": 445,
         "custom-id": 447,
@@ -9100,7 +9099,7 @@
             "insufficienza cardiaca"
         ],
         "comorbidities": [
-            "stato settico"
+            "setticemia"
         ],
         "id": 447,
         "custom-id": 449,
@@ -9139,7 +9138,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "fibrosi polmonare idiopatica"
+            "fibrosi polmonare"
         ],
         "id": 449,
         "custom-id": 451,
@@ -9288,7 +9287,7 @@
         "comorbidities": [
             "tetraparesi",
             "anemia",
-            "dm scompensato"
+            "dm2"
         ],
         "id": 456,
         "custom-id": 458,
@@ -9551,7 +9550,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "cardiopatia ischemico-ipertensiva"
+            "cardiopatia ischemica"
         ],
         "id": 469,
         "custom-id": 471,
@@ -9702,7 +9701,7 @@
         "pathologies": [
             "infezione covid",
             "polmonite covid",
-            "stato settico",
+            "setticemia",
             "insufficienza cardiaca"
         ],
         "comorbidities": [
@@ -9900,7 +9899,7 @@
             "mof"
         ],
         "comorbidities": [
-            "stenosi valvolare aortica",
+            "stenosi aortica",
             "fa"
         ],
         "id": 487,
@@ -10001,7 +10000,7 @@
             "mof"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "iposurrenalismo centrale"
         ],
         "id": 492,
@@ -10142,7 +10141,7 @@
     {
         "pathologies": [
             "nefroangiosclerosi",
-            "insufficienza renale"
+            "irc"
         ],
         "comorbidities": [
             "infezione covid",
@@ -10156,7 +10155,7 @@
         "deathdate": "2021-05-07",
         "operating_unit": "med int",
         "covid-positive": true,
-        "cause-of-death": "insufficienza renale"
+        "cause-of-death": "irc"
     },
     {
         "pathologies": [
@@ -10181,7 +10180,7 @@
         "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria",
-            "ir",
+            "irc",
             "tep",
             "mof"
         ],
@@ -10310,7 +10309,7 @@
         ],
         "comorbidities": [
             "ipertensione",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 507,
         "custom-id": 509,
@@ -10331,7 +10330,7 @@
         "comorbidities": [
             "ipertensione",
             "vasculopatia",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 508,
         "custom-id": 510,
@@ -10347,7 +10346,7 @@
         "pathologies": [
             "trauma cranico",
             "polmonite nosocomiale",
-            "stato settico",
+            "setticemia",
             "encefalopatia settico-metabolica"
         ],
         "comorbidities": [
@@ -10368,7 +10367,7 @@
     {
         "pathologies": [
             "polmonite long covid",
-            "stato settico",
+            "setticemia",
             "shock settico",
             "mof",
             "arresto cardiaco"
@@ -10394,7 +10393,7 @@
         ],
         "comorbidities": [
             "disfagia",
-            "evento ischemico cerebrale",
+            "ictus",
             "tamponamento vescicale"
         ],
         "id": 511,
@@ -10566,7 +10565,7 @@
         "comorbidities": [
             "bpco",
             "irc",
-            "polivasculopatia multidistrettuale"
+            "polivasculopatia"
         ],
         "id": 519,
         "custom-id": 521,
@@ -10627,7 +10626,7 @@
         ],
         "comorbidities": [
             "irc",
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "decadimento cognitivo"
         ],
         "id": 522,
@@ -10643,7 +10642,7 @@
     {
         "pathologies": [
             "infezione covid",
-            "sepsi urinaria",
+            "ivu",
             "emorragia enterica",
             "necrosi"
         ],
@@ -10669,8 +10668,8 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "infezione hiv",
-            "cardiopatia ischemica post ima",
+            "hiv",
+            "cardiopatia ischemica",
             "dm2"
         ],
         "id": 524,
@@ -10759,7 +10758,7 @@
         "comorbidities": [
             "dm2",
             "decadimento cognitivo",
-            "fibrillo-flutter atriale"
+            "flutter atriale"
         ],
         "id": 528,
         "custom-id": 530,
@@ -10823,7 +10822,7 @@
         "comorbidities": [
             "dm2",
             "silicosi",
-            "cuore polmonare"
+            "cuore polmonare cronico"
         ],
         "id": 531,
         "custom-id": 533,
@@ -10844,7 +10843,7 @@
         ],
         "comorbidities": [
             "scompenso cardiaco",
-            "ir",
+            "irc",
             "nefrostomia",
             "neoplasia vescicale"
         ],
@@ -10955,7 +10954,7 @@
         "comorbidities": [
             "obesita",
             "osas",
-            "cardiopatia ipertrofico-ipertensiva"
+            "cardiopatia ipertrofica"
         ],
         "id": 537,
         "custom-id": 539,
@@ -10994,7 +10993,7 @@
         "pathologies": [
             "polmonite covid",
             "mof",
-            "insufficienza renale"
+            "irc"
         ],
         "comorbidities": [
             "tireopatia autoimmune"
@@ -11007,7 +11006,7 @@
         "deathdate": "2021-10-10",
         "operating_unit": "t. int. cov",
         "covid-positive": true,
-        "cause-of-death": "insufficienza renale"
+        "cause-of-death": "irc"
     },
     {
         "pathologies": [
@@ -11101,7 +11100,7 @@
             "arresto cardiaco"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "fa",
             "leucemia linfatica cronica"
         ],
@@ -11119,7 +11118,7 @@
         "pathologies": [
             "iperpiressia",
             "dispnea",
-            "stato settico",
+            "setticemia",
             "infezione covid",
             "arresto cardiorespiratorio"
         ],
@@ -11144,9 +11143,9 @@
             "arresto cardiaco"
         ],
         "comorbidities": [
-            "stato settico",
+            "setticemia",
             "trombosi cvc",
-            "fa parossistica"
+            "fa"
         ],
         "id": 546,
         "custom-id": 548,
@@ -11185,7 +11184,7 @@
         "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria",
-            "ir",
+            "irc",
             "mof"
         ],
         "comorbidities": [
@@ -11312,7 +11311,7 @@
         "comorbidities": [
             "ipercolesterolemia",
             "ipertensione",
-            "esiti di duplice emorragia cerebrale"
+            "esiti di emorragia cerebrale"
         ],
         "id": 554,
         "custom-id": 556,
@@ -11401,7 +11400,7 @@
         "comorbidities": [
             "fa",
             "ipertensione",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 558,
         "custom-id": 560,
@@ -11437,7 +11436,7 @@
     {
         "pathologies": [
             "scompenso cardiaco",
-            "encefalopatia involutiva",
+            "encefalopatia degenerativa",
             "iperpiressia",
             "polmonite covid",
             "scompenso cardiaco"
@@ -11641,9 +11640,9 @@
             "mof"
         ],
         "comorbidities": [
-            "fa persistente",
+            "fa",
             "scompenso cardiaco",
-            "epatopatia esotossica"
+            "epatopatia"
         ],
         "id": 570,
         "custom-id": 572,
@@ -11660,7 +11659,7 @@
             "insufficienza respiratoria",
             "infezione covid",
             "scompenso cardiaco",
-            "ir"
+            "irc"
         ],
         "comorbidities": [
             "dm2",
@@ -11676,7 +11675,7 @@
         "deathdate": "2021-12-07",
         "operating_unit": "pneumo",
         "covid-positive": true,
-        "cause-of-death": "ir"
+        "cause-of-death": "irc"
     },
     {
         "pathologies": [
@@ -11708,7 +11707,7 @@
         ],
         "comorbidities": [
             "dm2",
-            "cardiopatia ischemico-ipertensiva"
+            "cardiopatia ischemica"
         ],
         "id": 573,
         "custom-id": 575,
@@ -11728,7 +11727,7 @@
         ],
         "comorbidities": [
             "ipertensione",
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "dm2",
             "paralisi diaframmatica"
         ],
@@ -11749,7 +11748,7 @@
             "mof"
         ],
         "comorbidities": [
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "dm2",
             "encefalopatia vascolare"
         ],
@@ -11767,7 +11766,7 @@
         "pathologies": [
             "polmonite covid",
             "ards",
-            "ir",
+            "irc",
             "mof"
         ],
         "comorbidities": [
@@ -11855,7 +11854,7 @@
             "mof"
         ],
         "comorbidities": [
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 580,
         "custom-id": 582,
@@ -11952,7 +11951,7 @@
             "arresto cardiaco"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "cardiopatia ischemica"
         ],
         "id": 585,
@@ -11991,7 +11990,7 @@
         "pathologies": [
             "insufficienza respiratoria",
             "infezione covid",
-            "stato settico",
+            "setticemia",
             "mof"
         ],
         "comorbidities": [],
@@ -12092,7 +12091,7 @@
         ],
         "comorbidities": [
             "irc",
-            "encefalopatia multinfartuale"
+            "encefalopatia multi-infartuale"
         ],
         "id": 592,
         "custom-id": 594,
@@ -12239,11 +12238,11 @@
         "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria",
-            "ir"
+            "irc"
         ],
         "comorbidities": [
             "sdr ipocinetica",
-            "cardiopatia ischemica fibrillante ipertensiva"
+            "cardiopatia ischemica fibrillante"
         ],
         "id": 600,
         "custom-id": 602,
@@ -12253,7 +12252,7 @@
         "deathdate": "2021-12-21",
         "operating_unit": "med int",
         "covid-positive": true,
-        "cause-of-death": "ir"
+        "cause-of-death": "irc"
     },
     {
         "pathologies": [
@@ -12285,7 +12284,7 @@
         ],
         "comorbidities": [
             "shock settico",
-            "ir"
+            "irc"
         ],
         "id": 602,
         "custom-id": 604,
@@ -12321,7 +12320,7 @@
             "arresto cardiorespiratorio"
         ],
         "comorbidities": [
-            "stato settico",
+            "setticemia",
             "irc",
             "metastasi cerebrali",
             "neoplasia renale"
@@ -12441,7 +12440,7 @@
             "infezione covid",
             "polmonite covid",
             "pielonefrite",
-            "stato settico"
+            "setticemia"
         ],
         "comorbidities": [],
         "id": 610,
@@ -12452,7 +12451,7 @@
         "deathdate": "2021-12-28",
         "operating_unit": "geriatria",
         "covid-positive": true,
-        "cause-of-death": "stato settico"
+        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -12501,7 +12500,7 @@
         "comorbidities": [
             "anemia",
             "disidratazione",
-            "ir"
+            "irc"
         ],
         "id": 613,
         "custom-id": 615,
@@ -12522,7 +12521,7 @@
         ],
         "comorbidities": [
             "fa",
-            "miocardiopatia dilatativa"
+            "cardiopatia dilatativa"
         ],
         "id": 614,
         "custom-id": 616,
@@ -12650,7 +12649,7 @@
         "comorbidities": [
             "dm2",
             "ipertensione",
-            "delirium ipercinetico"
+            "delirium"
         ],
         "id": 621,
         "custom-id": 623,
@@ -12671,7 +12670,7 @@
         "comorbidities": [
             "irc",
             "anemia",
-            "stato settico"
+            "setticemia"
         ],
         "id": 622,
         "custom-id": 624,
@@ -12692,7 +12691,7 @@
         "comorbidities": [
             "artrite reumatoide",
             "irc",
-            "interstiziopatia polmonare"
+            "interstiziopatia"
         ],
         "id": 623,
         "custom-id": 625,
@@ -12743,7 +12742,7 @@
             "mof"
         ],
         "comorbidities": [
-            "enfisema bolloso polmonare"
+            "enfisema polmonare"
         ],
         "id": 626,
         "custom-id": 628,
@@ -12788,7 +12787,7 @@
         ],
         "comorbidities": [
             "ipertensione",
-            "epatopatia hcv"
+            "epatopatia"
         ],
         "id": 628,
         "custom-id": 630,
@@ -12807,7 +12806,7 @@
         ],
         "comorbidities": [
             "anemia",
-            "ir"
+            "irc"
         ],
         "id": 629,
         "custom-id": 631,
@@ -12822,13 +12821,13 @@
     {
         "pathologies": [
             "scompenso cardiaco",
-            "ir",
+            "irc",
             "infezione covid",
             "shock settico"
         ],
         "comorbidities": [
             "stenosi aortica",
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "vasculopatia"
         ],
         "id": 630,
@@ -12861,7 +12860,7 @@
     {
         "pathologies": [
             "polmonite covid",
-            "embolia polmonare",
+            "tep",
             "insufficienza respiratoria",
             "ards"
         ],
@@ -13040,7 +13039,7 @@
         ],
         "comorbidities": [
             "sepsi",
-            "cardiopatia ipertensivo-fibrillante"
+            "cardiopatia ipertensiva fibrillante"
         ],
         "id": 641,
         "custom-id": 643,
@@ -13319,7 +13318,7 @@
         "comorbidities": [
             "dm2",
             "bpco",
-            "ir"
+            "irc"
         ],
         "id": 655,
         "custom-id": 657,
@@ -13415,7 +13414,7 @@
             "ictus",
             "sdr da allettamento",
             "cachessia",
-            "stato settico"
+            "setticemia"
         ],
         "comorbidities": [
             "infezione covid",
@@ -13429,7 +13428,7 @@
         "deathdate": "2022-01-19",
         "operating_unit": "med int",
         "covid-positive": true,
-        "cause-of-death": "stato settico"
+        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -13495,7 +13494,7 @@
     {
         "pathologies": [
             "emorragia cerebrale",
-            "insufficienza renale",
+            "irc",
             "polmonite covid",
             "arresto cardiorespiratorio"
         ],
@@ -13557,7 +13556,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "cardiopatia ipertensivo-fibrillante",
+            "cardiopatia ipertensiva fibrillante",
             "scompenso cardiaco"
         ],
         "id": 667,
@@ -13574,11 +13573,11 @@
         "pathologies": [
             "polmonite covid",
             "ards",
-            "fibrosi",
+            "fibrosi polmonare",
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "ex fumatrice"
+            "ex tabagista"
         ],
         "id": 668,
         "custom-id": 670,
@@ -13679,7 +13678,7 @@
         ],
         "comorbidities": [
             "sdr da allettamento",
-            "ir",
+            "irc",
             "decadimento cognitivo"
         ],
         "id": 673,
@@ -13724,7 +13723,7 @@
         "comorbidities": [
             "infezione covid",
             "disturbo neurocognitivo maggiore",
-            "fa parossistica",
+            "fa",
             "sdr ipocinetica"
         ],
         "id": 675,
@@ -13744,7 +13743,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "cardiopatia aritmogena ipertensiva",
+            "cardiopatia ipertensiva fibrillante",
             "encefalopatia"
         ],
         "id": 676,
@@ -13786,7 +13785,7 @@
         "comorbidities": [
             "infezione covid",
             "fa",
-            "ir",
+            "irc",
             "encefalopatia vascolare"
         ],
         "id": 678,
@@ -13821,13 +13820,13 @@
         "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria",
-            "stato settico",
+            "setticemia",
             "mof"
         ],
         "comorbidities": [
             "obesita",
             "mielofibrosi",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 680,
         "custom-id": 682,
@@ -13906,7 +13905,7 @@
             "infezione covid",
             "polmonite covid",
             "tvp poplitea",
-            "embolia polmonare"
+            "tep"
         ],
         "comorbidities": [
             "obesita",
@@ -13922,7 +13921,7 @@
         "deathdate": "2022-02-01",
         "operating_unit": "pneumo",
         "covid-positive": true,
-        "cause-of-death": "embolia polmonare"
+        "cause-of-death": "tep"
     },
     {
         "pathologies": [
@@ -13932,7 +13931,7 @@
         ],
         "comorbidities": [
             "infezione covid",
-            "ir",
+            "irc",
             "polivasculopatia"
         ],
         "id": 685,
@@ -14118,7 +14117,7 @@
         "comorbidities": [
             "dm2",
             "enfisema polmonare",
-            "fibrosi"
+            "fibrosi polmonare"
         ],
         "id": 694,
         "custom-id": 696,
@@ -14240,7 +14239,7 @@
             "shock settico"
         ],
         "comorbidities": [
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "decadimento cognitivo",
             "sdr da allettamento"
         ],
@@ -14322,7 +14321,7 @@
         "comorbidities": [
             "decadimento cognitivo",
             "sdr da allettamento",
-            "stato settico",
+            "setticemia",
             "ivu"
         ],
         "id": 704,
@@ -14410,7 +14409,7 @@
         "comorbidities": [
             "fa",
             "scompenso cardiaco",
-            "delirium ipercinetico"
+            "delirium"
         ],
         "id": 708,
         "custom-id": 710,
@@ -14453,7 +14452,7 @@
         "comorbidities": [
             "ipertensione polmonare",
             "artrite reumatoide",
-            "interstiziopatia polmonare"
+            "interstiziopatia"
         ],
         "id": 710,
         "custom-id": 712,
@@ -14511,7 +14510,7 @@
     },
     {
         "pathologies": [
-            "stato settico",
+            "setticemia",
             "shock",
             "disidratazione",
             "arresto cardiaco"
@@ -14617,7 +14616,7 @@
             "ulcera gastrica",
             "linfoma nh",
             "pancitopenia",
-            "ir",
+            "irc",
             "insufficienza respiratoria",
             "mof"
         ],
@@ -14646,7 +14645,7 @@
         "comorbidities": [
             "infezione covid",
             "encefalopatia vascolare",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 719,
         "custom-id": 721,
@@ -14852,7 +14851,7 @@
         "comorbidities": [
             "polmonite covid",
             "cardiopatia ischemica",
-            "fibrillo-flutter recidivante"
+            "flutter atriale"
         ],
         "id": 729,
         "custom-id": 731,
@@ -14945,7 +14944,7 @@
     {
         "pathologies": [
             "ivu",
-            "stato settico",
+            "setticemia",
             "ira"
         ],
         "comorbidities": [
@@ -14980,7 +14979,7 @@
     },
     {
         "pathologies": [
-            "stato settico",
+            "setticemia",
             "shock settico"
         ],
         "comorbidities": [
@@ -15144,7 +15143,7 @@
         ],
         "comorbidities": [
             "infezione covid",
-            "stato settico"
+            "setticemia"
         ],
         "id": 744,
         "custom-id": 746,
@@ -15202,7 +15201,7 @@
     },
     {
         "pathologies": [
-            "flutter atriale ad alta frequenza",
+            "flutter atriale",
             "ictus"
         ],
         "comorbidities": [
@@ -15222,7 +15221,7 @@
     },
     {
         "pathologies": [
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "scompenso cardiaco",
             "fa",
             "polmonite covid",
@@ -15332,7 +15331,7 @@
         "pathologies": [
             "anemia",
             "ima",
-            "flutter atriale ad alta frequenza",
+            "flutter atriale",
             "arresto cardiaco"
         ],
         "comorbidities": [
@@ -15355,7 +15354,7 @@
             "infezione covid",
             "scompenso cardiaco",
             "edema polmonare",
-            "shock distributivo"
+            "shock settico"
         ],
         "comorbidities": [
             "anasarca",
@@ -15370,7 +15369,7 @@
         "deathdate": "2022-03-29",
         "operating_unit": "mal inf",
         "covid-positive": true,
-        "cause-of-death": "shock distributivo"
+        "cause-of-death": "shock settico"
     },
     {
         "pathologies": [
@@ -15417,7 +15416,7 @@
     {
         "pathologies": [
             "ivu",
-            "stato settico",
+            "setticemia",
             "shock settico"
         ],
         "comorbidities": [
@@ -15445,7 +15444,7 @@
         ],
         "comorbidities": [
             "ipertensione",
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "sdr extrapiramidale"
         ],
         "id": 758,
@@ -15709,7 +15708,7 @@
         ],
         "comorbidities": [
             "frattura femore",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 771,
         "custom-id": 773,
@@ -15768,7 +15767,7 @@
         "pathologies": [
             "infezione covid",
             "sovrainfezione batterica",
-            "stato settico",
+            "setticemia",
             "insufficienza respiratoria"
         ],
         "comorbidities": [
@@ -15835,7 +15834,7 @@
         ],
         "comorbidities": [
             "encefalopatia vascolare",
-            "cardiopatia ipertensiva-valvolare"
+            "cardiopatia ipertensiva valvolare"
         ],
         "id": 777,
         "custom-id": 779,
@@ -15916,7 +15915,7 @@
         "comorbidities": [
             "infezione covid",
             "neoplasia prostatica",
-            "encefalopatia atrofico-vascolare"
+            "encefalopatia vascolare atrofica"
         ],
         "id": 781,
         "custom-id": 783,
@@ -15957,7 +15956,7 @@
         ],
         "comorbidities": [
             "cardiopatia ischemica",
-            "ir"
+            "irc"
         ],
         "id": 783,
         "custom-id": 785,
@@ -15994,7 +15993,7 @@
     {
         "pathologies": [
             "infezione covid",
-            "stato settico",
+            "setticemia",
             "mof"
         ],
         "comorbidities": [
@@ -16162,7 +16161,7 @@
         "pathologies": [
             "frattura anca",
             "sovrainfezione batterica",
-            "stato settico"
+            "setticemia"
         ],
         "comorbidities": [
             "infezione covid",
@@ -16177,7 +16176,7 @@
         "deathdate": "2022-05-16",
         "operating_unit": "med int",
         "covid-positive": true,
-        "cause-of-death": "stato settico"
+        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -16200,7 +16199,7 @@
     {
         "pathologies": [
             "neoplasia polmonare metastatica",
-            "embolia polmonare",
+            "tep",
             "insufficienza respiratoria"
         ],
         "comorbidities": [
@@ -16329,7 +16328,7 @@
     },
     {
         "pathologies": [
-            "ir",
+            "irc",
             "scompenso cardiaco",
             "insufficienza respiratoria"
         ],
@@ -16666,7 +16665,7 @@
             "arresto cardiaco"
         ],
         "comorbidities": [
-            "frattura pertrocanterica"
+            "frattura femore"
         ],
         "id": 817,
         "custom-id": 819,
@@ -16702,7 +16701,7 @@
     {
         "pathologies": [
             "infezioni tessuti molli arto sup",
-            "batteriemia",
+            "sepsi batterica",
             "sepsi",
             "addensamento polmonare"
         ],
@@ -16791,7 +16790,7 @@
         ],
         "comorbidities": [
             "infezione covid",
-            "infezione batterica a partenza non definita"
+            "sepsi batterica"
         ],
         "id": 823,
         "custom-id": 825,
@@ -16812,7 +16811,7 @@
         ],
         "comorbidities": [
             "infezione covid",
-            "fa persistente",
+            "fa",
             "cardiopatia ipertensiva"
         ],
         "id": 824,
@@ -16869,7 +16868,7 @@
         "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria",
-            "stato settico",
+            "setticemia",
             "mof"
         ],
         "comorbidities": [
@@ -16928,7 +16927,7 @@
     {
         "pathologies": [
             "polmonite",
-            "flutter atriale ad alta frequenza",
+            "flutter atriale",
             "scompenso cardiaco"
         ],
         "comorbidities": [
@@ -16991,9 +16990,9 @@
     },
     {
         "pathologies": [
-            "neoplasia ovarico",
+            "neoplasia ovaio",
             "sepsi",
-            "ir",
+            "irc",
             "progressione di malattia"
         ],
         "comorbidities": [
@@ -17014,7 +17013,7 @@
     {
         "pathologies": [
             "trombosi mesenterica superiore",
-            "shock emodinamico",
+            "shock cardiogeno",
             "mof"
         ],
         "comorbidities": [
@@ -17139,13 +17138,13 @@
         "pathologies": [
             "decadimento organico",
             "sdr da allettamento",
-            "stato settico",
+            "setticemia",
             "insufficienza respiratoria"
         ],
         "comorbidities": [
             "infezione covid",
             "fa",
-            "cardiopatia ischemica ipertensiva"
+            "cardiopatia ischemica"
         ],
         "id": 840,
         "custom-id": 842,
@@ -17419,7 +17418,7 @@
     },
     {
         "pathologies": [
-            "stato settico",
+            "setticemia",
             "infezione covid",
             "scompenso cardiaco"
         ],
@@ -17517,7 +17516,7 @@
     {
         "pathologies": [
             "polmonite",
-            "stato settico",
+            "setticemia",
             "mof"
         ],
         "comorbidities": [
@@ -17568,7 +17567,7 @@
         "comorbidities": [
             "infezione covid",
             "fa",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 861,
         "custom-id": 863,
@@ -17961,8 +17960,8 @@
         ],
         "comorbidities": [
             "fa",
-            "cardiopatia ischemica post ima",
-            "neoplasia del colon "
+            "cardiopatia ischemica",
+            "neoplasia del colon"
         ],
         "id": 880,
         "custom-id": 882,
@@ -18022,8 +18021,8 @@
         ],
         "comorbidities": [
             "anemia",
-            "ir",
-            "cardiopatia ischemica ipertensiva-fibrillante"
+            "irc",
+            "cardiopatia ischemica fibrillante"
         ],
         "id": 883,
         "custom-id": 885,
@@ -18060,13 +18059,13 @@
             "demenza",
             "cachessia",
             "sdr da allettamento",
-            "sepsi urinaria",
+            "ivu",
             "shock settico",
             "mof"
         ],
         "comorbidities": [
             "infezione covid",
-            "neoplasia del colon ",
+            "neoplasia del colon",
             "ipertensione"
         ],
         "id": 885,
@@ -18088,7 +18087,7 @@
         ],
         "comorbidities": [
             "infezione covid",
-            "ir",
+            "irc",
             "fa"
         ],
         "id": 886,
@@ -18291,7 +18290,7 @@
     {
         "pathologies": [
             "ivu",
-            "stato settico",
+            "setticemia",
             "mof"
         ],
         "comorbidities": [
@@ -18354,7 +18353,7 @@
         ],
         "comorbidities": [
             "sdr da allettamento",
-            "esisti di emorragia cerebrale",
+            "esiti di emorragia cerebrale",
             "encefalopatia vascolare"
         ],
         "id": 899,
@@ -18393,7 +18392,7 @@
         "pathologies": [
             "infezione covid",
             "polmonite covid",
-            "stato settico",
+            "setticemia",
             "cid",
             "mof"
         ],
@@ -18526,7 +18525,7 @@
         "comorbidities": [
             "pancreatite",
             "cardiopatia ischemica",
-            "vasculopatia aortica con protesi meccanica"
+            "esiti di protesi valvolare aortica"
         ],
         "id": 907,
         "custom-id": 909,
@@ -18589,7 +18588,7 @@
         ],
         "comorbidities": [
             "osas",
-            "cuore polmonare",
+            "cuore polmonare cronico",
             "scompenso cardiaco"
         ],
         "id": 910,
@@ -18604,7 +18603,7 @@
     },
     {
         "pathologies": [
-            "neoformazione rene",
+            "neoformazione renale",
             "sepsi",
             "mof"
         ],
@@ -18649,7 +18648,7 @@
             "infezione covid",
             "polmonite covid",
             "versamento pleurico",
-            "stato settico"
+            "setticemia"
         ],
         "comorbidities": [
             "cachessia"
@@ -18662,7 +18661,7 @@
         "deathdate": "2022-09-08",
         "operating_unit": "med int",
         "covid-positive": true,
-        "cause-of-death": "stato settico"
+        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -18706,7 +18705,7 @@
         "pathologies": [
             "infezione covid",
             "ictus",
-            "ir",
+            "irc",
             "arresto cardiorespiratorio"
         ],
         "comorbidities": [
@@ -18733,7 +18732,7 @@
         "comorbidities": [
             "decadimento cognitivo",
             "sdr ipocinetica",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 917,
         "custom-id": 919,
@@ -18773,7 +18772,7 @@
         ],
         "comorbidities": [
             "infezione covid",
-            "embolia polmonare",
+            "tep",
             "ira"
         ],
         "id": 919,
@@ -18847,7 +18846,7 @@
     },
     {
         "pathologies": [
-            "neoplasia del colon ",
+            "neoplasia del colon",
             "cachessia neoplastica"
         ],
         "comorbidities": [
@@ -18916,7 +18915,7 @@
         ],
         "comorbidities": [
             "infezione covid",
-            "stato settico",
+            "setticemia",
             "colecistite"
         ],
         "id": 926,
@@ -18995,7 +18994,7 @@
     {
         "pathologies": [
             "cirrosi epatica",
-            "stato settico",
+            "setticemia",
             "mof",
             "arresto cardiorespiratorio"
         ],
@@ -19061,13 +19060,13 @@
     {
         "pathologies": [
             "sepsi",
-            "ir",
-            "shock emodinamico",
+            "irc",
+            "shock cardiogeno",
             "arresto cardiaco"
         ],
         "comorbidities": [
             "infezione covid",
-            "stenosi valvolare aortica"
+            "stenosi aortica"
         ],
         "id": 933,
         "custom-id": 935,
@@ -19087,7 +19086,7 @@
         "comorbidities": [
             "stenosi aortica",
             "dm2",
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 934,
         "custom-id": 936,
@@ -19131,7 +19130,7 @@
         "comorbidities": [
             "infezione covid",
             "sdr da allettamento",
-            "embolia polmonare"
+            "tep"
         ],
         "id": 936,
         "custom-id": 938,
@@ -19186,7 +19185,7 @@
     },
     {
         "pathologies": [
-            "neoplasia del colon ",
+            "neoplasia del colon",
             "metastasi polmonari",
             "metastasi epatiche",
             "adenopatia"
@@ -19231,13 +19230,13 @@
             "ipovolemia",
             "intossicazione da metformina",
             "mof",
-            "ir"
+            "irc"
         ],
         "comorbidities": [
             "infezione covid",
             "demenza",
             "dm2",
-            "cardiopatia ipertensivo-dilatativa"
+            "cardiopatia dilatativa"
         ],
         "id": 941,
         "custom-id": 943,
@@ -19247,7 +19246,7 @@
         "deathdate": "2022-10-26",
         "operating_unit": "t. int. cov",
         "covid-positive": true,
-        "cause-of-death": "ir"
+        "cause-of-death": "irc"
     },
     {
         "pathologies": [
@@ -19492,7 +19491,7 @@
         "pathologies": [
             "gastrite erosiva",
             "emorragia enterica",
-            "sepsi urinaria",
+            "ivu",
             "insufficienza respiratoria"
         ],
         "comorbidities": [
@@ -19606,7 +19605,7 @@
         "comorbidities": [
             "dm2",
             "encefalopatia vascolare",
-            "cardiopatia ipertensiva-ischemico-fibrillante"
+            "cardiopatia ischemico-fibrillante"
         ],
         "id": 959,
         "custom-id": 961,
@@ -19647,7 +19646,7 @@
         "comorbidities": [
             "fa",
             "shock emorragico",
-            "ematoma rifornito ileopsoas"
+            "ematoma rifornito muscolare"
         ],
         "id": 961,
         "custom-id": 963,
@@ -19692,7 +19691,7 @@
         "comorbidities": [
             "disturbo neurocognitivo maggiore",
             "metastasi epatiche",
-            "neoplasia primitiva occulta",
+            "neoplasia a primitivita ignota",
             "macroematuria",
             "anemia"
         ],
@@ -19751,7 +19750,7 @@
     {
         "pathologies": [
             "infezione covid",
-            "stato settico",
+            "setticemia",
             "insufficienza respiratoria"
         ],
         "comorbidities": [
@@ -19800,7 +19799,7 @@
             "shock settico"
         ],
         "comorbidities": [
-            "sepsi urinaria",
+            "ivu",
             "distrofia in ventilazione domiciliare"
         ],
         "id": 968,
@@ -19918,7 +19917,7 @@
             "polmonite nosocomiale"
         ],
         "comorbidities": [
-            "sepsi urinaria",
+            "ivu",
             "sdr da allettamento",
             "cardiopatia ipertensiva"
         ],
@@ -19940,7 +19939,7 @@
         ],
         "comorbidities": [
             "fa",
-            "ir",
+            "irc",
             "vasculite anca"
         ],
         "id": 975,
@@ -20040,7 +20039,7 @@
     {
         "pathologies": [
             "ivu",
-            "batteriemia",
+            "sepsi batterica",
             "mof"
         ],
         "comorbidities": [
@@ -20184,7 +20183,7 @@
     },
     {
         "pathologies": [
-            "cardiopatia ischemica post ima",
+            "cardiopatia ischemica",
             "sdr extrapiramidale",
             "demenza a corpi di lewy",
             "sepsi"
@@ -20355,7 +20354,7 @@
         "comorbidities": [
             "dm2",
             "fa",
-            "stato settico",
+            "setticemia",
             "piede diabetico"
         ],
         "id": 995,
@@ -20531,7 +20530,7 @@
     {
         "pathologies": [
             "infezione covid",
-            "sepsi urinaria",
+            "ivu",
             "ira",
             "ima nstemi"
         ],
@@ -20598,7 +20597,7 @@
             "insufficienza respiratoria"
         ],
         "comorbidities": [
-            "esiti di emorragie cerebrali",
+            "esiti di emorragia cerebrale",
             "decadimento cognitivo",
             "epilessia"
         ],
@@ -20795,7 +20794,7 @@
         ],
         "comorbidities": [
             "infezione covid",
-            "politrauma stradale",
+            "politrauma",
             "irc"
         ],
         "id": 1016,
@@ -20839,7 +20838,7 @@
             "irc",
             "ipertensione",
             "enfisema polmonare",
-            "fibrosi"
+            "fibrosi polmonare"
         ],
         "id": 1018,
         "custom-id": 1020,
@@ -20976,7 +20975,7 @@
         "comorbidities": [
             "marasma senile",
             "bpco",
-            "cardiopatia ipertensiva-defibrillante"
+            "cardiopatia ipertensiva"
         ],
         "id": 1025,
         "custom-id": 1027,
@@ -20992,7 +20991,7 @@
         "pathologies": [
             "infezione covid",
             "polmonite covid",
-            "stato settico"
+            "setticemia"
         ],
         "comorbidities": [],
         "id": 1026,
@@ -21003,7 +21002,7 @@
         "deathdate": "2022-12-30",
         "operating_unit": "med int",
         "covid-positive": true,
-        "cause-of-death": "stato settico"
+        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -21067,7 +21066,7 @@
             "ards"
         ],
         "comorbidities": [
-            "cardiopatia ischemica post ima"
+            "cardiopatia ischemica"
         ],
         "id": 1030,
         "custom-id": 4,
@@ -21117,7 +21116,7 @@
     },
     {
         "pathologies": [
-            "batteriemia",
+            "sepsi batterica",
             "sepsi",
             "insufficienza respiratoria"
         ],
@@ -21230,7 +21229,7 @@
             "ipotensione"
         ],
         "comorbidities": [
-            "ir",
+            "irc",
             "anemia",
             "piastrinopenia",
             "decadimento organico"
@@ -21268,7 +21267,7 @@
     {
         "pathologies": [
             "fistola retto-vescicale",
-            "stato settico",
+            "setticemia",
             "mof",
             "arresto cardiaco"
         ],
@@ -21331,8 +21330,8 @@
     {
         "pathologies": [
             "frattura omero",
-            "sepsi urinaria",
-            "shock sistemico"
+            "ivu",
+            "shock"
         ],
         "comorbidities": [
             "irc",
@@ -21347,7 +21346,7 @@
         "deathdate": "2023-01-16",
         "operating_unit": "ortopedia",
         "covid-positive": true,
-        "cause-of-death": "shock sistemico"
+        "cause-of-death": "shock"
     },
     {
         "pathologies": [
@@ -21436,7 +21435,7 @@
         "pathologies": [
             "ictus",
             "polmonite covid",
-            "sepsi urinaria",
+            "ivu",
             "shock settico"
         ],
         "comorbidities": [
@@ -21458,7 +21457,7 @@
         "pathologies": [
             "ulcera duodenale",
             "iporessia",
-            "stato settico"
+            "setticemia"
         ],
         "comorbidities": [
             "alzheimer",
@@ -21472,7 +21471,7 @@
         "deathdate": "2023-02-12",
         "operating_unit": "med int",
         "covid-positive": true,
-        "cause-of-death": "stato settico"
+        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -21586,7 +21585,7 @@
         "comorbidities": [
             "demenza",
             "acidosi metabolica",
-            "ir"
+            "irc"
         ],
         "id": 1055,
         "custom-id": 29,
@@ -21603,7 +21602,7 @@
             "ira",
             "disidratazione",
             "insufficienza respiratoria",
-            "stato settico",
+            "setticemia",
             "mof"
         ],
         "comorbidities": [
@@ -21643,7 +21642,7 @@
     },
     {
         "pathologies": [
-            "stato settico",
+            "setticemia",
             "mof",
             "edema polmonare",
             "insufficienza respiratoria"
@@ -21747,7 +21746,7 @@
             "infezione covid",
             "ivu",
             "scompenso cardiaco",
-            "ir"
+            "irc"
         ],
         "comorbidities": [
             "stenosi aortica",
@@ -21762,7 +21761,7 @@
         "deathdate": "2023-03-05",
         "operating_unit": "c. med",
         "covid-positive": true,
-        "cause-of-death": "ir"
+        "cause-of-death": "irc"
     },
     {
         "pathologies": [
@@ -21831,7 +21830,7 @@
     },
     {
         "pathologies": [
-            "stato settico",
+            "setticemia",
             "sepsi",
             "mof"
         ],
