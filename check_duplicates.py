@@ -11,12 +11,11 @@ for i in range(len(data)):
         if data[i]["pathologies"][j] not in pathologies:
             pathologies.append(data[i]["pathologies"][j])
     for j in range(len(data[i]["comorbidities"])):
-        if data[i]["comorbidities"][j] not in comorbidities:
-            comorbidities.append(data[i]["comorbidities"][j])
-        
-print("Pathologies:")
-for pathology in pathologies:
+        if data[i]["comorbidities"][j] not in pathologies:
+            pathologies.append(data[i]["comorbidities"][j])
+
+for pathology in sorted(pathologies):
     print(pathology)
-print("\nComorbidities:")
-for comorbidity in comorbidities:
-    print(comorbidity)
+# print("\nComorbidities:")
+# for comorbidity in comorbidities:
+#     print(comorbidity)
