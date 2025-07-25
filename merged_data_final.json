@@ -2250,7 +2250,7 @@
     },
     {
         "pathologies": [
-            "neoplasia maligna a primitivita ignota",
+            "neoplasia a primitivita ignota",
             "metastasi cerebrali",
             "metastasi polmonari",
             "metastasi linfonodali",
@@ -19604,7 +19604,7 @@
         "comorbidities": [
             "dm2",
             "encefalopatia vascolare",
-            "cardiopatia ischemico-fibrillante"
+            "cardiopatia ischemica fibrillante"
         ],
         "id": 959,
         "custom-id": 961,
@@ -20475,7 +20475,7 @@
             "ipossia"
         ],
         "comorbidities": [
-            "neoplasia tiroideo",
+            "neoplasia tiroidea",
             "metastasi polmonari"
         ],
         "id": 1001,
