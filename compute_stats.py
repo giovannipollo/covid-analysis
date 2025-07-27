@@ -47,9 +47,11 @@ def count_male_female(data: List[Dict]):
 
 def compute_operating_units(data: List[Dict]):
     operating_units = {}
+    valid_operating_units = 0
     for i in range(len(data)):
         if data[i]["custom-id"] == 13:
             continue
+        valid_operating_units += 1
         if data[i]["operating_unit"] in operating_units:
             operating_units[data[i]["operating_unit"]] += 1
         else:
@@ -60,19 +62,21 @@ def compute_operating_units(data: List[Dict]):
             "{:<15} --> {:>5} --> {:>6.2f}%".format(
                 operating_unit[0],
                 operating_unit[1],
-                round(int(operating_unit[1]) / len(data) * 100, 2),
+                round(int(operating_unit[1]) / valid_operating_units * 100, 2),
             )
         )
 
 def compute_comorbidities(data: List[Dict]):
     comorbidities = {}
     number_of_patients_with_comorbidities = 0
+    number_of_comorbidities = 0
     for i in range(len(data)):
         if data[i]["custom-id"] == 13:
             continue
         if len(data[i]["comorbidities"]) != 0:
             number_of_patients_with_comorbidities += 1
         for j in range(len(data[i]["comorbidities"])):
+            number_of_comorbidities += 1
             if data[i]["comorbidities"][j] in comorbidities:
                 comorbidities[data[i]["comorbidities"][j]] += 1
             else:
@@ -80,12 +84,15 @@ def compute_comorbidities(data: List[Dict]):
     comorbidities = sorted(comorbidities.items(), key=lambda x: x[1], reverse=True)
     print("Number of patient with comorbidities: ", number_of_patients_with_comorbidities)
     print("------------------------------")
+    print("Number of comorbidities: ", number_of_comorbidities)
+    print("------------------------------")
+    print("Comorbidities")
     for comorbidity in comorbidities:
         print(
             "{:<70} --> {:>5} --> {:>6.2f}%".format(
                 comorbidity[0],
                 comorbidity[1],
-                round(int(comorbidity[1]) / len(data) * 100, 2),
+                round(int(comorbidity[1]) / number_of_comorbidities * 100, 2),
             )
         )
 
