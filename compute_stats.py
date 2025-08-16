@@ -183,12 +183,21 @@ def compute_comorbidities_year(data: List[Dict], year):
 def compute_pure_covid(data: List[Dict]):
     patient_with_pure_covid = 0
     for i in range(len(data)):
-        if data[i]["custom-id"] == 13:
-            continue
         if len(data[i]["pathologies"]) != 0:
             if data[i]["pathologies"][0] == "infezione covid" or data[i]["pathologies"][0] == "polmonite covid":
                 patient_with_pure_covid += 1
     print("Numero di pazienti con covid puro: ", patient_with_pure_covid)
+
+def compute_pure_covid_year(data: List[Dict], year):
+    patient_with_pure_covid = 0
+    for i in range(len(data)):
+        deathdate: str = data[i]["deathdate"]
+        if int(deathdate.split("-")[0]) == year:
+            if len(data[i]["pathologies"]) != 0:
+                if data[i]["pathologies"][0] == "infezione covid" or data[i]["pathologies"][0] == "polmonite covid":
+                    patient_with_pure_covid += 1
+    print("Numero di pazienti con covid puro per l'anno ", year, ": ", patient_with_pure_covid)
+
 
 def compute_covid_comorbdities(data: List[Dict]):
     patient_with_covid_comorbidities = 0
