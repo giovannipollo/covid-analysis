@@ -7,8 +7,6 @@ def compute_average_age(data: List[Dict]):
     cumulative_age = 0
     number_of_valid_patients = 0
     for i in range(len(data)):
-        if data[i]["custom-id"] == 13:
-            continue
         birthdate: str = data[i]["birthdate"]
         deathdate: str = data[i]["deathdate"]
         try:
@@ -27,6 +25,30 @@ def compute_average_age(data: List[Dict]):
             )
     average_age = cumulative_age / number_of_valid_patients
     print("Average age: ", average_age)
+
+def compute_average_age_year(data: List[Dict], year):
+    cumulative_age = 0
+    number_of_valid_patients = 0
+    for i in range(len(data)):
+        birthdate: str = data[i]["birthdate"]
+        deathdate: str = data[i]["deathdate"]
+        if int(deathdate.split("-")[0]) == year:
+            try:
+                years_difference: int = int(deathdate.split("-")[0]) - int(
+                    birthdate.split("-")[0]
+                )
+                months_difference: float = (
+                    int(deathdate.split("-")[1]) - int(birthdate.split("-")[1])
+                ) / 12
+                cumulative_age += abs(years_difference) + abs(months_difference)
+                number_of_valid_patients += 1
+            except Exception as e:
+                func_name = inspect.currentframe().f_code.co_name
+                # print(
+                #     f"[{func_name}] Exception: {e} | Patient with custom-id {data[i]['custom-id']} has birthdate {data[i]['birthdate']} and deathdate {data[i]['deathdate']}"
+                # )
+    average_age = cumulative_age / number_of_valid_patients
+    print("Average age for the year ", year, ": ", average_age)
 
 
 def count_male_female(data: List[Dict]):
