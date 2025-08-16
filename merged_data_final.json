@@ -1320,7 +1320,7 @@
         "birthdate": "1926-12",
         "deathdate": "2020-04-23",
         "operating_unit": "c. med",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiaco"
     },
     {
@@ -1647,7 +1647,7 @@
         "birthdate": "1932-04",
         "deathdate": "2020-05-05",
         "operating_unit": "pneumo",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "mof"
     },
     {
@@ -1855,7 +1855,7 @@
         "birthdate": "1932-11",
         "deathdate": "2020-06-09",
         "operating_unit": "med int",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "sepsi"
     },
     {
@@ -1892,7 +1892,7 @@
         "birthdate": "1942-12",
         "deathdate": "2020-06-13",
         "operating_unit": "ps",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiaco"
     },
     {
@@ -2244,7 +2244,7 @@
         "birthdate": "1947-08",
         "deathdate": "2020-10-30",
         "operating_unit": "ps",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiaco"
     },
     {
@@ -2510,7 +2510,7 @@
         "birthdate": "1962-12",
         "deathdate": "2020-11-06",
         "operating_unit": "med int",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "mof"
     },
     {
@@ -5311,7 +5311,7 @@
         "birthdate": "1968-08",
         "deathdate": "2021-01-12",
         "operating_unit": "pneumo",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "shock cardiogeno"
     },
     {
@@ -5328,7 +5328,7 @@
         "birthdate": "1941-11",
         "deathdate": "2021-01-13",
         "operating_unit": "ps",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiaco"
     },
     {
@@ -5986,7 +5986,7 @@
         "birthdate": "1931-04",
         "deathdate": "2021-01-26",
         "operating_unit": "ps",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "mof"
     },
     {
@@ -6415,7 +6415,7 @@
         "birthdate": "1934-05",
         "deathdate": "2021-02-01",
         "operating_unit": "med int",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "neoplasia mammella"
     },
     {
@@ -7731,7 +7731,7 @@
         "birthdate": "1939-05",
         "deathdate": "2021-03-03",
         "operating_unit": "med int",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "sepsi"
     },
     {
@@ -8574,7 +8574,7 @@
         "birthdate": "1937-08",
         "deathdate": "2021-03-27",
         "operating_unit": "med int",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "shock emorragico"
     },
     {
@@ -9234,7 +9234,7 @@
         "birthdate": "1947-05",
         "deathdate": "2021-04-13",
         "operating_unit": "t. int. cov",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiaco"
     },
     {
@@ -10668,7 +10668,7 @@
         "birthdate": "1930-09",
         "deathdate": "2021-09-20",
         "operating_unit": "mal inf",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiaco"
     },
     {
@@ -10922,7 +10922,7 @@
         "birthdate": "1925-09",
         "deathdate": "2021-10-31",
         "operating_unit": "ps",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiorespiratorio"
     },
     {
@@ -13196,7 +13196,7 @@
         "birthdate": "1937-04",
         "deathdate": "2022-01-18",
         "operating_unit": "ps",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiaco"
     },
     {
@@ -14584,7 +14584,7 @@
         "birthdate": "1939-02",
         "deathdate": "2022-02-27",
         "operating_unit": "ps",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiorespiratorio"
     },
     {
@@ -14747,7 +14747,7 @@
         "birthdate": "1945-07",
         "deathdate": "2022-03-07",
         "operating_unit": "oncologia",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "evento tromboembolico"
     },
     {
@@ -14803,7 +14803,7 @@
         "birthdate": "1953-06",
         "deathdate": "2022-03-09",
         "operating_unit": "oncologia",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiaco"
     },
     {
@@ -16151,7 +16151,7 @@
         "birthdate": "2021-04",
         "deathdate": "2022-06-01",
         "operating_unit": "neonatol",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "coma"
     },
     {
@@ -16218,7 +16218,7 @@
         "birthdate": "1941-12",
         "deathdate": "2022-06-05",
         "operating_unit": "ps",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiaco"
     },
     {
@@ -16320,7 +16320,7 @@
         "birthdate": "1951-02",
         "deathdate": "2022-06-09",
         "operating_unit": "ps",
-        "covid-positive": false,
+        "covid-positive": true,
         "cause-of-death": "arresto cardiorespiratorio"
     },
     {
