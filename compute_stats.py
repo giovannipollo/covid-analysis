@@ -199,6 +199,25 @@ def compute_pure_covid_year(data: List[Dict], year):
     print("Numero di pazienti con covid puro per l'anno ", year, ": ", patient_with_pure_covid)
 
 
+def compute_pure_covid_no_comorbidities(data: List[Dict]):
+    patient_with_pure_covid_no_comorbidities = 0
+    for i in range(len(data)):
+        if len(data[i]["pathologies"]) != 0 and len(data[i]["comorbidities"]) == 0:
+            if data[i]["pathologies"][0] == "infezione covid" or data[i]["pathologies"][0] == "polmonite covid":
+                patient_with_pure_covid_no_comorbidities += 1
+    print("Numero di pazienti con covid puro senza comorbidità: ", patient_with_pure_covid_no_comorbidities)
+
+def compute_pure_covid_no_comorbidities_year(data: List[Dict], year):
+    patient_with_pure_covid_no_comorbidities = 0
+    for i in range(len(data)):
+        deathdate: str = data[i]["deathdate"]
+        if int(deathdate.split("-")[0]) == year:
+            if len(data[i]["pathologies"]) != 0 and len(data[i]["comorbidities"]) == 0:
+                if data[i]["pathologies"][0] == "infezione covid" or data[i]["pathologies"][0] == "polmonite covid":
+                    patient_with_pure_covid_no_comorbidities += 1
+    print("Numero di pazienti con covid puro senza comorbidità per l'anno ", year, ": ", patient_with_pure_covid_no_comorbidities)
+
+
 def compute_covid_comorbdities(data: List[Dict]):
     patient_with_covid_comorbidities = 0
     for i in range(len(data)):
@@ -319,5 +338,15 @@ if __name__ == "__main__":
     compute_covid_pathologies_year(data=data, year=2022)
     print("------------------------------")
     compute_covid_pathologies_year(data=data, year=2023)
+    print("------------------------------")
+    compute_pure_covid_no_comorbidities(data=data)
+    print("------------------------------")
+    compute_pure_covid_no_comorbidities_year(data=data, year=2020)
+    print("------------------------------")
+    compute_pure_covid_no_comorbidities_year(data=data, year=2021)
+    print("------------------------------")
+    compute_pure_covid_no_comorbidities_year(data=data, year=2022)
+    print("------------------------------")
+    compute_pure_covid_no_comorbidities_year(data=data, year=2023)
     print("------------------------------")
 
