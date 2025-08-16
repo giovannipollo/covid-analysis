@@ -127,8 +127,6 @@ def compute_comorbidities(data: List[Dict]):
     number_of_patients_with_comorbidities = 0
     number_of_comorbidities = 0
     for i in range(len(data)):
-        if data[i]["custom-id"] == 13:
-            continue
         if len(data[i]["comorbidities"]) != 0:
             number_of_patients_with_comorbidities += 1
         for j in range(len(data[i]["comorbidities"])):
@@ -143,6 +141,36 @@ def compute_comorbidities(data: List[Dict]):
     print("Number of comorbidities: ", number_of_comorbidities)
     print("------------------------------")
     print("Comorbidities")
+    for comorbidity in comorbidities:
+        print(
+            "{:<70} --> {:>5} --> {:>6.2f}%".format(
+                comorbidity[0],
+                comorbidity[1],
+                round(int(comorbidity[1]) / number_of_comorbidities * 100, 2),
+            )
+        )
+
+def compute_comorbidities_year(data: List[Dict], year):
+    comorbidities = {}
+    number_of_patients_with_comorbidities = 0
+    number_of_comorbidities = 0
+    for i in range(len(data)):
+        deathdate: str = data[i]["deathdate"]
+        if int(deathdate.split("-")[0]) == year:
+            if len(data[i]["comorbidities"]) != 0:
+                number_of_patients_with_comorbidities += 1
+            for j in range(len(data[i]["comorbidities"])):
+                number_of_comorbidities += 1
+                if data[i]["comorbidities"][j] in comorbidities:
+                    comorbidities[data[i]["comorbidities"][j]] += 1
+                else:
+                    comorbidities[data[i]["comorbidities"][j]] = 1
+    comorbidities = sorted(comorbidities.items(), key=lambda x: x[1], reverse=True)
+    print("Number of patient with comorbidities for the year ", year, ": ", number_of_patients_with_comorbidities)
+    print("------------------------------")
+    print("Number of comorbidities for the year ", year, ": ", number_of_comorbidities)
+    print("------------------------------")
+    print("Comorbidities for the year ", year)
     for comorbidity in comorbidities:
         print(
             "{:<70} --> {:>5} --> {:>6.2f}%".format(
