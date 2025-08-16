@@ -84,14 +84,35 @@ def compute_operating_units(data: List[Dict]):
     operating_units = {}
     valid_operating_units = 0
     for i in range(len(data)):
-        if data[i]["custom-id"] == 13:
-            continue
         valid_operating_units += 1
         if data[i]["operating_unit"] in operating_units:
             operating_units[data[i]["operating_unit"]] += 1
         else:
             operating_units[data[i]["operating_unit"]] = 1
     operating_units = sorted(operating_units.items(), key=lambda x: x[1], reverse=True)
+    for operating_unit in operating_units:
+        print(
+            "{:<15} --> {:>5} --> {:>6.2f}%".format(
+                operating_unit[0],
+                operating_unit[1],
+                round(int(operating_unit[1]) / valid_operating_units * 100, 2),
+            )
+        )
+
+def compute_operating_units_year(data: List[Dict], year):
+    operating_units = {}
+    valid_operating_units = 0
+    for i in range(len(data)):
+        deathdate: str = data[i]["deathdate"]
+        if int(deathdate.split("-")[0]) == year:
+            valid_operating_units += 1
+            if data[i]["operating_unit"] in operating_units:
+                operating_units[data[i]["operating_unit"]] += 1
+            else:
+                operating_units[data[i]["operating_unit"]] = 1
+    
+    operating_units = sorted(operating_units.items(), key=lambda x: x[1], reverse=True)
+    print("Operating units for the year ", year)
     for operating_unit in operating_units:
         print(
             "{:<15} --> {:>5} --> {:>6.2f}%".format(
