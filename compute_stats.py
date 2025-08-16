@@ -55,8 +55,6 @@ def count_male_female(data: List[Dict]):
     number_of_male: int = 0
     number_of_female: int = 0
     for i in range(len(data)):
-        if data[i]["custom-id"] == 13:
-            continue
         if data[i]["gender"] == "m":
             number_of_male += 1
         elif data[i]["gender"] == "f":
@@ -65,6 +63,21 @@ def count_male_female(data: List[Dict]):
             print("Error in the data")
     print("Number of male: ", number_of_male)
     print("Number of female: ", number_of_female)
+
+def count_male_female_year(data: List[Dict], year):
+    number_of_male: int = 0
+    number_of_female: int = 0
+    for i in range(len(data)):
+        deathdate: str = data[i]["deathdate"]
+        if int(deathdate.split("-")[0]) == year:
+            if data[i]["gender"] == "m":
+                number_of_male += 1
+            elif data[i]["gender"] == "f":
+                number_of_female += 1
+            else:
+                print("Error in the data")
+    print("Number of male for year ", year, ": ", number_of_male)
+    print("Number of female for year ", year, ": ", number_of_female)
 
 
 def compute_operating_units(data: List[Dict]):
