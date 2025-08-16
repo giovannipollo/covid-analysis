@@ -224,8 +224,6 @@ def compute_covid_comorbdities_year(data: List[Dict], year):
 def compute_covid_pathologies(data: List[Dict]):
     patient_with_covid_pathologies = 0
     for i in range(len(data)):
-        if data[i]["custom-id"] == 13:
-            continue
         if len(data[i]["pathologies"]) > 1:
             for j in range(1, len(data[i]["pathologies"])):
                 if data[i]["pathologies"][j] == "infezione covid" or data[i]["pathologies"][j] == "polmonite covid":
@@ -233,6 +231,17 @@ def compute_covid_pathologies(data: List[Dict]):
                     break
     print("Numero di pazienti con covid tra le patologie: ", patient_with_covid_pathologies)
 
+def compute_covid_pathologies_year(data: List[Dict], year):
+    patient_with_covid_pathologies = 0
+    for i in range(len(data)):
+        deathdate: str = data[i]["deathdate"]
+        if int(deathdate.split("-")[0]) == year:
+            if len(data[i]["pathologies"]) > 1:
+                for j in range(1, len(data[i]["pathologies"])):
+                    if data[i]["pathologies"][j] == "infezione covid" or data[i]["pathologies"][j] == "polmonite covid":
+                        patient_with_covid_pathologies += 1
+                        break
+    print("Numero di pazienti con covid tra le patologie nell'anno ", year, ": ", patient_with_covid_pathologies)
 
         
 
@@ -243,14 +252,72 @@ if __name__ == "__main__":
 
     compute_average_age(data=data)
     print("------------------------------")
+    compute_average_age_year(data=data, year=2020)
+    print("------------------------------")
+    compute_average_age_year(data=data, year=2021)
+    print("------------------------------")
+    compute_average_age_year(data=data, year=2022)
+    print("------------------------------")
+    compute_average_age_year(data=data, year=2023)
+    print("------------------------------")
     count_male_female(data=data)
+    print("------------------------------")
+    count_male_female_year(data=data, year=2020)
+    print("------------------------------")
+    count_male_female_year(data=data, year=2021)
+    print("------------------------------")
+    count_male_female_year(data=data, year=2022)
+    print("------------------------------")
+    count_male_female_year(data=data, year=2023)
     print("------------------------------")
     compute_operating_units(data=data)
     print("------------------------------")
+    compute_operating_units_year(data=data, year=2020)
+    print("------------------------------")
+    compute_operating_units_year(data=data, year=2021)
+    print("------------------------------")
+    compute_operating_units_year(data=data, year=2022)
+    print("------------------------------")
+    compute_operating_units_year(data=data, year=2023)
+    print("------------------------------")
     compute_comorbidities(data=data)
+    print("------------------------------")
+    compute_comorbidities_year(data=data, year=2020)
+    print("------------------------------")
+    compute_comorbidities_year(data=data, year=2021)
+    print("------------------------------")
+    compute_comorbidities_year(data=data, year=2022)
+    print("------------------------------")
+    compute_comorbidities_year(data=data, year=2023)
     print("------------------------------")
     compute_pure_covid(data=data)
     print("------------------------------")
+    compute_pure_covid_year(data=data, year=2020)
+    print("------------------------------")
+    compute_pure_covid_year(data=data, year=2021)
+    print("------------------------------")
+    compute_pure_covid_year(data=data, year=2022)
+    print("------------------------------")
+    compute_pure_covid_year(data=data, year=2023)
+    print("------------------------------")
     compute_covid_comorbdities(data=data)
+    print("------------------------------")
+    compute_covid_comorbdities_year(data=data, year=2020)
+    print("------------------------------")
+    compute_covid_comorbdities_year(data=data, year=2021)
+    print("------------------------------")
+    compute_covid_comorbdities_year(data=data, year=2022)
+    print("------------------------------")
+    compute_covid_comorbdities_year(data=data, year=2023)
+    print("------------------------------")
+    compute_covid_pathologies(data=data)
+    print("------------------------------")
+    compute_covid_pathologies_year(data=data, year=2020)
+    print("------------------------------")
+    compute_covid_pathologies_year(data=data, year=2021)
+    print("------------------------------")
+    compute_covid_pathologies_year(data=data, year=2022)
+    print("------------------------------")
+    compute_covid_pathologies_year(data=data, year=2023)
     print("------------------------------")
 
