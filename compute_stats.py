@@ -44,9 +44,9 @@ def compute_average_age_year(data: List[Dict], year):
                 number_of_valid_patients += 1
             except Exception as e:
                 func_name = inspect.currentframe().f_code.co_name
-                # print(
-                #     f"[{func_name}] Exception: {e} | Patient with custom-id {data[i]['custom-id']} has birthdate {data[i]['birthdate']} and deathdate {data[i]['deathdate']}"
-                # )
+                print(
+                    f"[{func_name}] Exception: {e} | Patient with custom-id {data[i]['custom-id']} has birthdate {data[i]['birthdate']} and deathdate {data[i]['deathdate']}"
+                )
     average_age = cumulative_age / number_of_valid_patients
     print("Average age for the year ", year, ": ", average_age)
 
