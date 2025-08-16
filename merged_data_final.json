@@ -1,28 +1,6 @@
 [
     {
         "pathologies": [
-            "pneumopatia interstiziale bilaterale",
-            "insufficienza respiratoria",
-            "versamento pleurico",
-            "arresto cardiorespiratorio"
-        ],
-        "comorbidities": [
-            "dm2",
-            "ivu",
-            "fa"
-        ],
-        "id": 0,
-        "custom-id": 2,
-        "year-file": "2020-2022",
-        "gender": "f",
-        "birthdate": "1936-09",
-        "deathdate": "2020-03-13",
-        "operating_unit": "mal inf",
-        "covid-positive": false,
-        "cause-of-death": "arresto cardiorespiratorio"
-    },
-    {
-        "pathologies": [
             "dm2",
             "ivu",
             "addensamento polmonare",
@@ -227,27 +205,6 @@
         "deathdate": "2020-03-24",
         "operating_unit": "t. int. cov",
         "covid-positive": true,
-        "cause-of-death": "mof"
-    },
-    {
-        "pathologies": [
-            "casellati mauro (sospetto covid) polmonite",
-            "mof"
-        ],
-        "comorbidities": [
-            "osas",
-            "bpco",
-            "irc",
-            "cardiopatia dilatativa"
-        ],
-        "id": 11,
-        "custom-id": 13,
-        "year-file": "2020-2022",
-        "gender": "m",
-        "birthdate": "1953-02",
-        "deathdate": "2020-03-24",
-        "operating_unit": "t. int. cov",
-        "covid-positive": null,
         "cause-of-death": "mof"
     },
     {
@@ -1008,26 +965,6 @@
         "operating_unit": "med int",
         "covid-positive": true,
         "cause-of-death": "polmonite covid"
-    },
-    {
-        "pathologies": [
-            "polmonite",
-            "insufficienza respiratoria"
-        ],
-        "comorbidities": [
-            "ira",
-            "dm2",
-            "decadimento cognitivo"
-        ],
-        "id": 50,
-        "custom-id": 52,
-        "year-file": "2020-2022",
-        "gender": "f",
-        "birthdate": "1921-12",
-        "deathdate": "2020-04-14",
-        "operating_unit": "med int",
-        "covid-positive": false,
-        "cause-of-death": "insufficienza respiratoria"
     },
     {
         "pathologies": [
@@ -2888,23 +2825,6 @@
         "operating_unit": "ps",
         "covid-positive": true,
         "cause-of-death": "arresto cardiaco"
-    },
-    {
-        "pathologies": [
-            "cardiopatia ipertensiva",
-            "scompenso cardiaco",
-            "insufficienza respiratoria"
-        ],
-        "comorbidities": [],
-        "id": 141,
-        "custom-id": 143,
-        "year-file": "2020-2022",
-        "gender": "f",
-        "birthdate": "1929-09",
-        "deathdate": "2020-11-20",
-        "operating_unit": "ps",
-        "covid-positive": false,
-        "cause-of-death": "insufficienza respiratoria"
     },
     {
         "pathologies": [
@@ -6265,27 +6185,6 @@
     },
     {
         "pathologies": [
-            "frattura femore",
-            "sdr da allettamento",
-            "polmonite nosocomiale",
-            "scompenso cardiaco"
-        ],
-        "comorbidities": [
-            "ivu",
-            "sovrainfezione batterica"
-        ],
-        "id": 308,
-        "custom-id": 310,
-        "year-file": "2020-2022",
-        "gender": "f",
-        "birthdate": "1934-05",
-        "deathdate": "2021-01-29",
-        "operating_unit": "ortogeriatria",
-        "covid-positive": false,
-        "cause-of-death": "scompenso cardiaco"
-    },
-    {
-        "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria"
         ],
@@ -6518,27 +6417,6 @@
         "operating_unit": "med int",
         "covid-positive": false,
         "cause-of-death": "neoplasia mammella"
-    },
-    {
-        "pathologies": [
-            "ivu",
-            "sepsi",
-            "setticemia"
-        ],
-        "comorbidities": [
-            "irc",
-            "cardiopatia ischemica",
-            "encefalopatia associata a delirium"
-        ],
-        "id": 320,
-        "custom-id": 322,
-        "year-file": "2020-2022",
-        "gender": "f",
-        "birthdate": "1928-08",
-        "deathdate": "2021-02-01",
-        "operating_unit": "geriatria",
-        "covid-positive": false,
-        "cause-of-death": "setticemia"
     },
     {
         "pathologies": [
@@ -8397,28 +8275,6 @@
     },
     {
         "pathologies": [
-            "politrauma",
-            "pneumotorace",
-            "shock",
-            "arresto cardiorespiratorio"
-        ],
-        "comorbidities": [
-            "amputazione piede",
-            "irc",
-            "dialisi"
-        ],
-        "id": 413,
-        "custom-id": 415,
-        "year-file": "2020-2022",
-        "gender": "m",
-        "birthdate": "1949-03",
-        "deathdate": "2021-03-19",
-        "operating_unit": "ps",
-        "covid-positive": false,
-        "cause-of-death": "arresto cardiorespiratorio"
-    },
-    {
-        "pathologies": [
             "infezione covid",
             "diarrea",
             "ira",
@@ -9619,27 +9475,6 @@
     },
     {
         "pathologies": [
-            "neoplasia endometrio",
-            "metastasi peritoneali",
-            "occlusione intestinale"
-        ],
-        "comorbidities": [
-            "metastasi polmonari",
-            "aocp",
-            "trauma cranico"
-        ],
-        "id": 473,
-        "custom-id": 475,
-        "year-file": "2020-2022",
-        "gender": "f",
-        "birthdate": "1963-11",
-        "deathdate": "2021-04-19",
-        "operating_unit": "onco",
-        "covid-positive": false,
-        "cause-of-death": "occlusione intestinale"
-    },
-    {
-        "pathologies": [
             "polmonite covid",
             "insufficienza respiratoria"
         ],
@@ -10343,28 +10178,6 @@
     },
     {
         "pathologies": [
-            "trauma cranico",
-            "polmonite nosocomiale",
-            "setticemia",
-            "encefalopatia settico-metabolica"
-        ],
-        "comorbidities": [
-            "fa",
-            "insufficienza respiratoria",
-            "esiti osteosintesi arto inf"
-        ],
-        "id": 509,
-        "custom-id": 511,
-        "year-file": "2020-2022",
-        "gender": "m",
-        "birthdate": "1945-12",
-        "deathdate": "2021-05-27",
-        "operating_unit": "med int",
-        "covid-positive": false,
-        "cause-of-death": "encefalopatia settico-metabolica"
-    },
-    {
-        "pathologies": [
             "polmonite long covid",
             "setticemia",
             "shock settico",
@@ -10789,28 +10602,6 @@
         "operating_unit": "pneumo",
         "covid-positive": true,
         "cause-of-death": "insufficienza respiratoria"
-    },
-    {
-        "pathologies": [
-            "decadimento cognitivo",
-            "sdr da allettamento",
-            "enterite clostridium",
-            "shock ipovolemico"
-        ],
-        "comorbidities": [
-            "anemia",
-            "dm2",
-            "fa"
-        ],
-        "id": 530,
-        "custom-id": 532,
-        "year-file": "2020-2022",
-        "gender": "f",
-        "birthdate": "1932-12",
-        "deathdate": "2021-09-14",
-        "operating_unit": "med int",
-        "covid-positive": false,
-        "cause-of-death": "shock ipovolemico"
     },
     {
         "pathologies": [
@@ -14925,23 +14716,6 @@
     },
     {
         "pathologies": [
-            "neoplasia polmonare metastatica",
-            "progressione di malattia",
-            "cachessia neoplastica"
-        ],
-        "comorbidities": [],
-        "id": 733,
-        "custom-id": 735,
-        "year-file": "2020-2022",
-        "gender": "f",
-        "birthdate": "1947-06",
-        "deathdate": "2022-03-05",
-        "operating_unit": "oncologia",
-        "covid-positive": false,
-        "cause-of-death": "cachessia neoplastica"
-    },
-    {
-        "pathologies": [
             "ivu",
             "setticemia",
             "ira"
@@ -15786,28 +15560,6 @@
     },
     {
         "pathologies": [
-            "aocp",
-            "amputazione al di sopra del ginocchio",
-            "sepsi",
-            "shock settico"
-        ],
-        "comorbidities": [
-            "morbo di chron",
-            "irc",
-            "cardiopatia dilatativa"
-        ],
-        "id": 775,
-        "custom-id": 777,
-        "year-file": "2020-2022",
-        "gender": "m",
-        "birthdate": "1964-02",
-        "deathdate": "2022-04-21",
-        "operating_unit": "med int",
-        "covid-positive": false,
-        "cause-of-death": "shock settico"
-    },
-    {
-        "pathologies": [
             "infezione covid",
             "polmonite covid",
             "insufficienza respiratoria",
@@ -15925,28 +15677,6 @@
         "operating_unit": "mal inf",
         "covid-positive": true,
         "cause-of-death": "shock settico"
-    },
-    {
-        "pathologies": [
-            "polmonite",
-            "ivu",
-            "sepsi",
-            "mof"
-        ],
-        "comorbidities": [
-            "demenza",
-            "lesione da pressione infetta",
-            "disfagia"
-        ],
-        "id": 782,
-        "custom-id": 784,
-        "year-file": "2020-2022",
-        "gender": "f",
-        "birthdate": "1943-06",
-        "deathdate": "2022-04-27",
-        "operating_unit": "geriatria",
-        "covid-positive": false,
-        "cause-of-death": "mof"
     },
     {
         "pathologies": [
