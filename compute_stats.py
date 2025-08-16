@@ -202,8 +202,6 @@ def compute_pure_covid_year(data: List[Dict], year):
 def compute_covid_comorbdities(data: List[Dict]):
     patient_with_covid_comorbidities = 0
     for i in range(len(data)):
-        if data[i]["custom-id"] == 13:
-            continue
         if len(data[i]["comorbidities"]) != 0:
             for j in range(len(data[i]["comorbidities"])):
                 if data[i]["comorbidities"][j] == "infezione covid" or data[i]["comorbidities"][j] == "polmonite covid":
@@ -211,7 +209,19 @@ def compute_covid_comorbdities(data: List[Dict]):
                     break
     print("Numero di pazienti con covid tra le comorbidità: ", patient_with_covid_comorbidities)
 
-def compute_covid_comorbdities(data: List[Dict]):
+def compute_covid_comorbdities_year(data: List[Dict], year):
+    patient_with_covid_comorbidities = 0
+    for i in range(len(data)):
+        deathdate: str = data[i]["deathdate"]
+        if int(deathdate.split("-")[0]) == year:
+            if len(data[i]["comorbidities"]) != 0:
+                for j in range(len(data[i]["comorbidities"])):
+                    if data[i]["comorbidities"][j] == "infezione covid" or data[i]["comorbidities"][j] == "polmonite covid":
+                        patient_with_covid_comorbidities += 1
+                        break
+    print("Numero di pazienti con covid tra le comorbidità nell'anno ", year, ": ", patient_with_covid_comorbidities)
+
+def compute_covid_pathologies(data: List[Dict]):
     patient_with_covid_pathologies = 0
     for i in range(len(data)):
         if data[i]["custom-id"] == 13:
