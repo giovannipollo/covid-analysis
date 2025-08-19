@@ -6832,8 +6832,7 @@
         ],
         "comorbidities": [
             "ictus",
-            "sdr da allettamento",
-            "ictus"
+            "sdr da allettamento"
         ],
         "id": 341,
         "custom-id": 343,
@@ -11228,8 +11227,7 @@
             "scompenso cardiaco",
             "encefalopatia degenerativa",
             "iperpiressia",
-            "polmonite covid",
-            "scompenso cardiaco"
+            "polmonite covid"
         ],
         "comorbidities": [],
         "id": 560,

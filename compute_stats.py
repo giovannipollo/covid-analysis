@@ -280,11 +280,53 @@ def compute_covid_pathologies_year(data: List[Dict], year):
                         break
     print("Numero di pazienti con covid tra le patologie nell'anno ", year, ": ", patient_with_covid_pathologies)
 
+
+def compute_comorbidities_groups(data: List[Dict], groups: List[Dict]):
+    groups_occurence = {
+        "cardiovascular": 0,
+        "respiratory": 0,
+        "metabolic": 0,
+        "neurodegenerative-neocognitive": 0,
+        "neoplastic": 0,
+        "other": 0
+    }
+
+    for i in range(len(data)):
+        if len(data[i]["comorbidities"]) != 0:
+            for j in range(len(data[i]["comorbidities"])):
+                if data[i]["comorbidities"][j] in groups["cardiovascular"]:
+                    groups_occurence["cardiovascular"] += 1
+                if data[i]["comorbidities"][j] in groups["respiratory"]:
+                    groups_occurence["respiratory"] += 1
+                if data[i]["comorbidities"][j] in groups["metabolic"]:
+                    groups_occurence["metabolic"] += 1
+                if data[i]["comorbidities"][j] in groups["neurodegenerative-neocognitive"]:
+                    groups_occurence["neurodegenerative-neocognitive"] += 1
+                if data[i]["comorbidities"][j] in groups["neoplastic"]:
+                    groups_occurence["neoplastic"] += 1
+                if data[i]["comorbidities"][j] in groups["other"]:
+                    groups_occurence["other"] += 1
+    total_comorbidities = sum(groups_occurence.values())
+    print("Total number of comorbidities: ", total_comorbidities)
+    print("------------------------------")
+    print("Comorbidities groups occurence:")
+    groups_occurence = sorted(groups_occurence.items(), key=lambda x: x[1], reverse=True)
+    for group, count in groups_occurence:
+        print(
+            "{:<30} --> {:>5} --> {:>6.2f}%".format(
+                group, count, round(int(count) / total_comorbidities * 100, 2)
+            )
+        )
+    
+
+        
         
 
 if __name__ == "__main__":
     with open("merged_data_final.json", "r") as data_file:
         data: List[Dict] = json.load(fp=data_file)
+    with open("groups.json", "r") as groups_file:
+        groups: List[Dict] = json.load(fp=groups_file)
 
 
     compute_average_age(data=data)
@@ -377,3 +419,4 @@ if __name__ == "__main__":
     print("------------------------------")
     compute_pure_covid_with_comorbidities_year(data=data, year=2023)
     print("------------------------------")
+    compute_comorbidities_groups(data=data, groups=groups)
