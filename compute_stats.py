@@ -410,6 +410,115 @@ def compute_comorbidities_groups(data: List[Dict], groups: List[Dict]):
             )
         )
 
+def compute_pathologies(data: List[Dict]):
+    pathologies = {}
+    number_of_patients_with_pathologies = 0
+    number_of_pathologies = 0
+    for i in range(len(data)):
+        if len(data[i]["pathologies"]) != 0:
+            number_of_patients_with_pathologies += 1
+        for j in range(len(data[i]["pathologies"])):
+            number_of_pathologies += 1
+            if data[i]["pathologies"][j] in pathologies:
+                pathologies[data[i]["pathologies"][j]] += 1
+            else:
+                pathologies[data[i]["pathologies"][j]] = 1
+    pathologies = sorted(pathologies.items(), key=lambda x: x[1], reverse=True)
+    print(
+        "Number of patient with pathologies: ", number_of_patients_with_pathologies
+    )
+    print("------------------------------")
+    print("Number of pathologies: ", number_of_pathologies)
+    print("------------------------------")
+    print("Pathologies")
+    for pathology in pathologies:
+        print(
+            "{:<70} --> {:>5} --> {:>6.2f}%".format(
+                pathology[0],
+                pathology[1],
+                round(int(pathology[1]) / number_of_pathologies * 100, 2),
+            )
+        )
+
+def compute_pathologies_year(data: List[Dict], year):
+    pathologies = {}
+    number_of_patients_with_pathologies = 0
+    number_of_pathologies = 0
+    for i in range(len(data)):
+        deathdate: str = data[i]["deathdate"]
+        if int(deathdate.split("-")[0]) == year:
+            if len(data[i]["pathologies"]) != 0:
+                number_of_patients_with_pathologies += 1
+            for j in range(len(data[i]["pathologies"])):
+                number_of_pathologies += 1
+                if data[i]["pathologies"][j] in pathologies:
+                    pathologies[data[i]["pathologies"][j]] += 1
+                else:
+                    pathologies[data[i]["pathologies"][j]] = 1
+    pathologies = sorted(pathologies.items(), key=lambda x: x[1], reverse=True)
+    print(
+        "Number of patient with pathologies for the year ", year, ": ", number_of_patients_with_pathologies
+    )
+    print("------------------------------")
+    print("Number of pathologies for the year ", year, ": ", number_of_pathologies)
+    print("------------------------------")
+    print("Pathologies for the year ", year)
+    for pathology in pathologies:
+        print(
+            "{:<70} --> {:>5} --> {:>6.2f}%".format(
+                pathology[0],
+                pathology[1],
+                round(int(pathology[1]) / number_of_pathologies * 100, 2),
+            )
+        )
+
+def compute_first_pathology(data: List[Dict]):
+    pathologies = {}
+    number_of_patients_with_pathologies = 0
+    for i in range(len(data)):
+        if len(data[i]["pathologies"]) != 0:
+            number_of_patients_with_pathologies += 1
+            if data[i]["pathologies"][0] in pathologies:
+                pathologies[data[i]["pathologies"][0]] += 1
+            else:
+                pathologies[data[i]["pathologies"][0]] = 1
+    pathologies = sorted(pathologies.items(), key=lambda x: x[1], reverse=True)
+    print("Number of first pathologies: ", number_of_patients_with_pathologies)
+    print("------------------------------")
+    print("First Pathologies")
+    for pathology in pathologies:
+        print(
+            "{:<70} --> {:>5} --> {:>6.2f}%".format(
+                pathology[0],
+                pathology[1],
+                round(int(pathology[1]) / number_of_patients_with_pathologies * 100, 2),
+            )
+        )
+
+def compute_first_pathology_year(data: List[Dict], year):
+    pathologies = {}
+    number_of_patients_with_pathologies = 0
+    for i in range(len(data)):
+        deathdate: str = data[i]["deathdate"]
+        if int(deathdate.split("-")[0]) == year:
+            if len(data[i]["pathologies"]) != 0:
+                number_of_patients_with_pathologies += 1
+                if data[i]["pathologies"][0] in pathologies:
+                    pathologies[data[i]["pathologies"][0]] += 1
+                else:
+                    pathologies[data[i]["pathologies"][0]] = 1
+    pathologies = sorted(pathologies.items(), key=lambda x: x[1], reverse=True)
+    print("Number of first pathologies for the year ", year, ": ", number_of_patients_with_pathologies)
+    print("------------------------------")
+    print("First Pathologies for the year ", year)
+    for pathology in pathologies:
+        print(
+            "{:<70} --> {:>5} --> {:>6.2f}%".format(
+                pathology[0],
+                pathology[1],
+                round(int(pathology[1]) / number_of_patients_with_pathologies * 100, 2),
+            )
+        )
 
 if __name__ == "__main__":
     with open("merged_data_final.json", "r") as data_file:
@@ -508,3 +617,23 @@ if __name__ == "__main__":
     compute_pure_covid_with_comorbidities_year(data=data, year=2023)
     print("------------------------------")
     compute_comorbidities_groups(data=data, groups=groups)
+    print("------------------------------")
+    compute_pathologies(data=data)
+    print("------------------------------")
+    compute_pathologies_year(data=data, year=2020)
+    print("------------------------------")
+    compute_pathologies_year(data=data, year=2021)
+    print("------------------------------")
+    compute_pathologies_year(data=data, year=2022)
+    print("------------------------------")
+    compute_pathologies_year(data=data, year=2023)
+    print("------------------------------")
+    compute_first_pathology(data=data)
+    print("------------------------------")
+    compute_first_pathology_year(data=data, year=2020)
+    print("------------------------------")
+    compute_first_pathology_year(data=data, year=2021)
+    print("------------------------------")
+    compute_first_pathology_year(data=data, year=2022)
+    print("------------------------------")
+    compute_first_pathology_year(data=data, year=2023)
